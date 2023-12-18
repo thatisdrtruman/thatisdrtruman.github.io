@@ -1,0 +1,4 @@
+baseURL = 'https://thatisdrtruman.github.io/'
+languageCode = 'en-us'
+title = 'Joe Liu - website of Stuff'
+theme = "ananke"
