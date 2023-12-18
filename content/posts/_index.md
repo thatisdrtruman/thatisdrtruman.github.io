@@ -1,9 +1,9 @@
 ---
-title: "Joe Liu website"
+title: "Publishes from Joe Liu"
 
 description: "My home page."
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/img/joe-liu-image.jpg'
+  featured_image: '/img/blue-dot.jpg'
 ---
