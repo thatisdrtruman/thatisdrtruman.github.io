@@ -6,7 +6,18 @@
     <description>Recent content in Publishes from Joe Liu on Joseph Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Dec 2023 13:48:43 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Dec 2023 21:14:51 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grabo</title>
+      <link>https://thatisdrtruman.github.io/posts/grabo/</link>
+      <pubDate>Tue, 19 Dec 2023 21:14:51 +0000</pubDate>
+      
+      <guid>https://thatisdrtruman.github.io/posts/grabo/</guid>
+      <description>In July/August 2023, I worked on a My First Game Jam project called Grabo.
+Inspired by Kingdom Hearts III using Unreal Engine 4, I wanted to make an Unreal Engine 5 Game as a general 2D platformer.
+Grabo, a beartrap in a 2D platformer who needs to destroy all melty liquid vats. This is written in Unreal Engine 5.2.1 as a 2023 My First Game Jam entry (https://itch.io/jam/my-first-game-jam-summer-2023). I did this to prove that I can make a game in Unreal Engine so that employers have proof of my skills.</description>
+    </item>
+    
     <item>
       <title>My Contacts 18 12 23</title>
       <link>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</link>
