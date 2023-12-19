@@ -4,6 +4,7 @@ date = 2023-12-18T00:52:17Z
 draft = false
 description = 'An intro to who I am. An autistic guy but with dreams to be a novelist, developer/designer, singer-musician, actor and podcaster'
 tags = ['about']
+categories = ['About']
 +++
 
 ![Joseph Liu](/img/joe-liu-image.jpg)

@@ -6,3 +6,51 @@ theme = "ananke"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+[[params.ananke_socials]]
+
+name = "linkedin"
+
+url = "https://www.linkedin.com/in/joseph-liu-9b022b1b0/"
+
+label = "My Linkedin"
+
+[[params.ananke_socials]]
+
+name = "facebook"
+
+url = "https://www.facebook.com/joseph.liu.7161953"
+
+label = "My Facebook"
+
+[[params.ananke_socials]]
+
+name = "instagram"
+
+url = "https://www.instagram.com/thatisdrtruman/"
+
+label = "My Insta"
+
+[[params.ananke_socials]]
+
+name = "tiktok"
+
+url = "https://www.tiktok.com/@thatisdrtruman"
+
+label = "My tiktok international account"
+
+[[params.ananke_socials]]
+
+name = "github"
+
+url = "https://github.com/thatisdrtruman/"
+
+label = "My github"
+
+[[params.ananke_socials]]
+
+name = "youtube"
+
+url = ""
+
+label = "Youtube account (Coming Soon)"
