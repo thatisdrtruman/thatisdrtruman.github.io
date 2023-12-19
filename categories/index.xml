@@ -5,6 +5,16 @@
     <link>https://thatisdrtruman.github.io/categories/</link>
     <description>Recent content in Categories on Joseph Liu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Dec 2023 13:48:43 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://thatisdrtruman.github.io/categories/about/</link>
+      <pubDate>Mon, 18 Dec 2023 13:48:43 +0000</pubDate>
+      
+      <guid>https://thatisdrtruman.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
