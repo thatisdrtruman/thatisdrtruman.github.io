@@ -20,7 +20,7 @@ If you want me to remake it for your use: Direct Contact me via any of my social
 
 or joe.liu2nd@gmail.com (making the subject "Remake PECSOnline")
 
-{{/* Find out how the embedded work by going to layouts/shortcodes/embedded.html */}}
+<!--- Find out how the embedded work by going to layouts/shortcodes/embedded.html ) -->
 
 {{< embedded src="https://archive.org/embed/joseph-liu-pecs-online-playthrough" >}}
 
