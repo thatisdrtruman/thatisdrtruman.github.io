@@ -49,6 +49,14 @@ label = "My github"
 
 [[params.ananke_socials]]
 
+name = "twitter"
+
+url = "https://twitter.com/liuj40149012"
+
+label = "My X or Twitter"
+
+[[params.ananke_socials]]
+
 name = "youtube"
 
 url = ""
