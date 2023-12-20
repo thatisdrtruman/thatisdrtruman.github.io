@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>children on Joseph Liu</title>
+    <link>https://thatisdrtruman.github.io/tags/children/</link>
+    <description>Recent content in children on Joseph Liu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 16:39:10 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/children/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PECSOnline</title>
+      <link>https://thatisdrtruman.github.io/posts/pecsonline/</link>
+      <pubDate>Wed, 20 Dec 2023 16:39:10 +0000</pubDate>
+      
+      <guid>https://thatisdrtruman.github.io/posts/pecsonline/</guid>
+      <description>PECSOnline It was a software I made for my individual Bachelor&amp;rsquo;s project for my Computer Science Degree.
+If you want me to remake it for your use: Direct Contact me via any of my social media accounts (starting your message with:
+&amp;ldquo;Subject: Remake PECSOnline&amp;rdquo;)
+or joe.liu2nd@gmail.com (making the subject &amp;ldquo;Remake PECSOnline&amp;rdquo;)
+{{/* Find out how the embedded work by going to layouts/shortcodes/embedded.html */}}
+If you can&amp;rsquo;t see it: https://archive.org/embed/joseph-liu-pecs-online-playthrough
+The app was usable on the PC, on phone and tablet, via the internet and a browser app.</description>
+    </item>
+    
+  </channel>
+</rss>
