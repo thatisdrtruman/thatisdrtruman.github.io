@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joseph Liu</title>
-    <link>https://thatisdrtruman.github.io/</link>
-    <description>Recent content on Joseph Liu</description>
+    <title>design on Joseph Liu</title>
+    <link>https://thatisdrtruman.github.io/tags/design/</link>
+    <description>Recent content in design on Joseph Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Dec 2023 12:38:06 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Dec 2023 12:38:06 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My designed logo</title>
       <link>https://thatisdrtruman.github.io/posts/my-logo/</link>
@@ -42,34 +42,6 @@ The app was usable on the PC, on phone and tablet, via the internet and a browse
       <description>In July/August 2023, I worked on a My First Game Jam project called Grabo.
 Inspired by Kingdom Hearts III using Unreal Engine 4, I wanted to make an Unreal Engine 5 Game as a general 2D platformer.
 Grabo, a beartrap in a 2D platformer who needs to destroy all melty liquid vats. This is written in Unreal Engine 5.2.1 as a 2023 My First Game Jam entry ( https://itch.io/jam/my-first-game-jam-summer-2023 ).</description>
-    </item>
-    
-    <item>
-      <title>My Contacts 18 12 23</title>
-      <link>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</link>
-      <pubDate>Mon, 18 Dec 2023 13:48:43 +0000</pubDate>
-      
-      <guid>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</guid>
-      <description>UPDATE 19 Dec 2023: All my social media accounts, minus Soundcloud are now on the top and bottom of all pages Linkedin: https://www.linkedin.com/in/joseph-liu-9b022b1b0/
-Soundcloud: https://soundcloud.com/joseph-liu-aut
-Facebook: https://www.facebook.com/joseph.liu.7161953
-Instagram: https://www.instagram.com/thatisdrtruman/
-UPDATE 20 Dec 2023: GX.games account: https://gx.games/studios/220aa5a8-bca4-4917-90b2-53bbcd15afaf/</description>
-    </item>
-    
-    <item>
-      <title>I am Joe Liu</title>
-      <link>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</link>
-      <pubDate>Mon, 18 Dec 2023 00:52:17 +0000</pubDate>
-      
-      <guid>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</guid>
-      <description>I am a person with autism but that does not mean I am incapable of living a great and fulfilling life!
-CV (working as of 18 December 2023): https://t.ly/aQKjU
-CV (tech relevant only): https://t.ly/xYDYr
-My dreams are to be a novelist of a unique series, developer/designer of various projects, singer-musician, actor and podcaster.
-I have a blog on all my works and my portfolio here.
-Notable works:
-Two original songs (&amp;lsquo;Your Heroes Inside&amp;rsquo; and &amp;lsquo;Inspect&amp;rsquo;) and accompanying music videos, as the sole director, producer, editor, composer, and singer-songwriter on TikTok, soon to be on YouTube.</description>
     </item>
     
   </channel>
