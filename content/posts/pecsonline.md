@@ -2,7 +2,7 @@
 title = 'PECSOnline'
 date = 2023-12-20T16:39:10Z
 draft = false
-tags = ['accessibility', 'software', 'children', 'autism', 'conference']
+tags = ['accessibility', 'software', 'children', 'autism', 'conference', 'development', 'design']
 featured_image = "img/th.jpg"
 description = "A web and online based application on PECS, which is now academically published."
 categories = ['Software', 'Accessibility']
