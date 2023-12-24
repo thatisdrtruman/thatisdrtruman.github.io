@@ -1,5 +1,7 @@
 {{ $featured_image := partial "func/GetFeaturedImage.html" . }}
 {{ if $featured_image }}
+<head><link rel="icon" type="image/ico" href="favicon.ico" />
+</head>
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
     <div class="bg-black-60">

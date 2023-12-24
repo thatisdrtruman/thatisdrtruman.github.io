@@ -19,3 +19,7 @@ Swap over the positions of my western name, reading right to left, like Modern A
 ## That is how I named my business and my logo.
 
 To conclude, the name and the logo reflects my cultural upbringing with at-time-of-writing modern attractiveness and simplicity. In the future, I will theme my office and work environment around this, until I decided to rebrand.
+
+## UPDATE Christmas Eve 2023:
+
+The logo is added as a favicon.

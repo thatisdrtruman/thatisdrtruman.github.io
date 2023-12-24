@@ -10,6 +10,9 @@ theme = "ananke"
 [params]
   site_logo = "img/lj-left-logo-white.svg"
 
+[[params.meta.favicon]]
+
+
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/joseph-liu-9b022b1b0/"
