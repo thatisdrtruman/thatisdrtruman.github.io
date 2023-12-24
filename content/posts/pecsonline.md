@@ -12,7 +12,7 @@ categories = ['Software', 'Accessibility']
 
 
 
-It was a software I made for my individual Bachelor's project for my Computer Science Degree.
+PECSOnline was a software I made for my individual Bachelor's Computer Science Degree project.
 
 If you want me to remake it for your use: Direct Contact me via any of my social media accounts (starting your message with:
 
@@ -24,14 +24,11 @@ If you want me to remake it for your use: Direct Contact me via any of my social
 
 If you can't see it: https://archive.org/embed/joseph-liu-pecs-online-playthrough
 
-
 The app was usable on the PC, on phone and tablet, via the internet and a browser app. It had user and child adding/modifying, PECS 1-3 or single symbols and 4-6 or sentence making.
 
-It was made up of 9 categories, including one personalised items category.
+I made 9 categories in PECSOnline, including one personalised items category. It also had First this, then that, which was placing symbols on the First and Then backgrounds.
 
-It also had First this, then that, which was placing symbols on the First and Then backgrounds.
-
-It had personalised items that anyone can upload with an image or in the phone or tablet's case, make from a photo. That personalised item was then either released to everyone on the network of users, or just the personalised item's creator.
+The personalised items feature: anyone can upload with an image or in the phone or tablet's case, make from a photo. That personalised item was then either released to everyone on the network of users, or just the personalised item's creator.
 
 It also had a list of a child's personalised items, which the user can modify, providing they put in the right passcode. There, the adult could inactivate all of the child's personalised item or reactivate them. They could also deactivate/reactivate accounts, including in the case of reactivating, put in the old adult user's passcode to reactivate.
 
@@ -51,10 +48,11 @@ Or go to https://doi.org/10.1007/978-3-031-42293-5_70
 
 Just reference my work if you are using it please.
 
-So yeah, have a read of my poster below:
+The poster:
 ![PECSOnline poster](/img/pecs-poster.jpg)
+(Note: I did the research and the writing, but noticed a grammar error, which I did not write or even review before the poster was printed)
 
-And my time at the conference, with Fernando:
+And my time at the conference, with Fernando Loizedes:
 ![Both of us](/img/projof.jpg)
 ![Me at the conf](/img/meatinteract.jpg)
 
