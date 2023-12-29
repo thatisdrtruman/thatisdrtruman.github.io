@@ -2,6 +2,7 @@ baseURL = 'https://thatisdrtruman.github.io/'
 languageCode = 'en-us'
 title = 'Joseph Liu'
 theme = "ananke"
+publishDir = "public"
 
 [taxonomies]
   category = 'categories'
@@ -9,9 +10,6 @@ theme = "ananke"
 
 [params]
   site_logo = "img/lj-left-logo-white.svg"
-
-[[params.meta.favicon]]
-
 
 [[params.ananke_socials]]
 name = "linkedin"
