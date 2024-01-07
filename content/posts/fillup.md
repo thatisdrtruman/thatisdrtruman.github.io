@@ -4,7 +4,7 @@ date = 2024-01-07T20:29:57Z
 draft = false
 tags = ['game', 'dormant', 'development', 'design', 'writing']
 featured_image = "img/fillup/fillup-(11).jpg"
-description = ""
+description = A board game I have made, ready to test. Aim: last one left wins!"
 categories = ['Design', 'Board Game', 'Fillup']
 +++
 
