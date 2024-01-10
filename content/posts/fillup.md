@@ -2,13 +2,13 @@
 title = 'Fillup'
 date = 2024-01-07T20:29:57Z
 draft = false
-tags = ['game', 'dormant', 'development', 'design', 'writing']
+tags = ['game', 'development', 'design', 'writing', 'luck', 'tabletop', 'strategy']
 featured_image = "img/fillup/fillup-(11).jpg"
 description = "A board game I have made, ready to test. Aim: last one left wins!"
 categories = ['Design', 'Board Game', 'Fillup']
 +++
 
-WIP:
+A game I made in July to January 2023-24, now in its testing phase.
 
 The manual and documentation: https://shorturl.at/kuX29
 
