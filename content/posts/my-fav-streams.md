@@ -85,4 +85,4 @@ http://edge-bauerall-01-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=16515
 http://ais-sa2.cdnstream1.com/2382_48.aac?ref=RF Lite Radio
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
-http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)
+http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)http://playoutonestreaming.com:8008/stream
