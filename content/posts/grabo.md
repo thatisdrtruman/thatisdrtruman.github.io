@@ -5,7 +5,7 @@ draft = false
 tags = ['game', 'dormant', 'development', 'design']
 featured_image = "img/grabo.png"
 description = "A prototype abandoned game I started making in Unreal 5.2"
-categories = ['Video Game', 'Design']
+categories = ['Video Game', 'Design', 'Games']
 +++
 ![Grabo logo](/img/grabo.png)
 
