@@ -2,7 +2,7 @@
 {{ if $featured_image }}
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   <header class="cover bg-top" style="background-image: url('{{ $featured_image }}');">
-    <a href="/sitemap.xml">Sitemap</a>
+    {{/*<a href="/sitemap.xml">Sitemap</a>*/}}
     <meta name="google-site-verification" content="LaTsfTIDZWoXPCTRKE1xf9Yp5YoBcuBUIWSFEEG1Xy4" />
     <div class="{{ .Site.Params.cover_dimming_class | default "bg-black-60" }}">
       {{ partial "site-navigation.html" .}}

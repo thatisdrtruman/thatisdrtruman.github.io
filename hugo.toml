@@ -4,6 +4,10 @@ title = 'Joseph Liu'
 theme = "ananke"
 publishDir = "public"
 
+[outputs]
+  home = ["HTML", "RSS"]
+
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
@@ -40,6 +44,11 @@ label = "My github"
 name = "twitter"
 url = "https://twitter.com/liuj40149012"
 label = "My X or Twitter"
+
+[[params.ananke_socials]]
+name = "rss"
+url = "https://thatisdrtruman.github.io/index.xml"
+label = "My RSS, useful if you want to have updates about me"
 
 [[params.ananke_socials]]
 name = "youtube"
