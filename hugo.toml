@@ -7,6 +7,20 @@ publishDir = "public"
 [outputs]
   home = ["HTML", "RSS"]
 
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    url = "/posts/i-am-joe-liu/"
+
+[[menu.main]]
+    name = "Categories"
+    identifier = "categories"
+    url = "/categories/"
+
+[[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    url = "/tags/"
 
 [taxonomies]
   category = 'categories'
