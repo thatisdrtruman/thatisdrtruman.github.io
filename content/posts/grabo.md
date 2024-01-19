@@ -2,7 +2,7 @@
 title = 'Grabo'
 date = 2023-12-19T21:14:51Z
 draft = false
-tags = ['game', 'dormant', 'development', 'design']
+tags = ['game', 'dormant', 'development', 'design', 'character']
 featured_image = "img/grabo.png"
 description = "A prototype abandoned game I started making in Unreal 5.2"
 categories = ['Video Game', 'Design', 'Games']
