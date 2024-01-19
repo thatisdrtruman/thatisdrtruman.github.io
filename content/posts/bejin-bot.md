@@ -3,11 +3,11 @@ title = 'Bejin Bot'
 date = 2024-01-19T02:05:26Z
 draft = false
 tags = ['game', 'model', 'development', 'design', 'character', '3D']
-featured_image = ""
-description = ""
+featured_image = "img/bejin-bot/logo.JPG"
+description = "Blender simple robot model, no colours,**FREE DOWNLOAD**"
 categories = ['Video Game', 'Design', 'Games']
 +++
-
+**FREE DOWNLOAD**
 ## WIP (Still need texture and animation and bio)
 
 ### Bejin Bot
@@ -16,7 +16,7 @@ categories = ['Video Game', 'Design', 'Games']
 
 A robot designed in Blender inspired by a robot from an Australian animator.
 
-[Like to download this model? Press here](#model-download)
+[Download here](#model-download)
 
 
 Still deciding how to colour it, and its purpose in a game, art or story.
