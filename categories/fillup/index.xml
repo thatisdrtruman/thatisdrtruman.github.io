@@ -6,16 +6,25 @@
     <description>Recent content in Fillup on Joseph Liu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jan 2024 20:29:57 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/fillup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Jan 2024 00:27:13 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/fillup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fillup Status App</title>
+      <link>https://thatisdrtruman.github.io/posts/fillup-status-app/</link>
+      <pubDate>Mon, 22 Jan 2024 00:27:13 +0000</pubDate>
+      
+      <guid>https://thatisdrtruman.github.io/posts/fillup-status-app/</guid>
+      <description>This is the second post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here To download the APK, scroll to the bottom, or press here, iOS coming soon I made this app to organise my game better, by allowing players to roll their moves dice and slide their Health Point themselves. So far, only on Android 5.0+, but this proves I am capable of making mobile apps, and web applications.</description>
+    </item>
+    
     <item>
       <title>Fillup</title>
       <link>https://thatisdrtruman.github.io/posts/fillup/</link>
       <pubDate>Sun, 07 Jan 2024 20:29:57 +0000</pubDate>
       
       <guid>https://thatisdrtruman.github.io/posts/fillup/</guid>
-      <description>A game I made in July to January 2023-24, now in its testing phase.
+      <description>UPDATE 22 Jan 2024: After playing the game with some people and reviewing how to be more organised, I have made a Fillup Status app for players to track their HP and roll the dice themselves for the number of moves. Download it here or on &amp;lsquo;Fillup Status App&amp;rsquo; page. A game I made in July to January 2023-24, now in its testing phase.
 The manual and documentation: https://shorturl.at/kuX29
-The game layout: The empty playing board All basic items tokens ready to put in the game: All basic ability tokens ready to put in the game: There are 8 different abilities, each has 4 The healthboard: The player decides behind the wall what they want to do. After the deciding time is up, the wall is removed and the actions take place.</description>
+The game layout: The empty playing board All basic items tokens ready to put in the game: All basic ability tokens ready to put in the game: There are 8 different abilities, each has 4 The healthboard: The player decides behind the wall what they want to do.</description>
     </item>
     
   </channel>
