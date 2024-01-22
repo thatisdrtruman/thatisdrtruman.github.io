@@ -33,4 +33,4 @@ Name derived from 'Begin', 'g' soften to 'j', to reference my first character de
 Update pending.
 
 ## model-download
-[There you are, this version of Bejin Bot is fully copyleft](https://thatisdrtruman.github.io/bejin_bot.blend)
+[There you are, this version of Bejin Bot is fully copyleft](/bejin_bot.blend)
