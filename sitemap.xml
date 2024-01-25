@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thatisdrtruman.github.io/tags/audio/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/podcast/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/podcast/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/posts/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/the-lj-left-creations-projects/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/posts/the-lj-left-creations-projects-podcast-ep0/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/the-lj-left-creations-projects/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/voice/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/voice/</loc>
+    <lastmod>2024-01-25T23:13:11+00:00</lastmod>
+  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/about/</loc>
     <lastmod>2024-01-22T23:23:48+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/about/</loc>
     <lastmod>2024-01-22T23:23:48+00:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/</loc>
-    <lastmod>2024-01-22T23:23:48+00:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/design/</loc>
     <lastmod>2024-01-22T23:23:48+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/design/</loc>
-    <lastmod>2024-01-22T23:23:48+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/</loc>
     <lastmod>2024-01-22T23:23:48+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/links/</loc>
@@ -32,13 +62,7 @@
     <loc>https://thatisdrtruman.github.io/tags/logo/</loc>
     <lastmod>2024-01-22T23:23:48+00:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/posts/</loc>
-    <lastmod>2024-01-22T23:23:48+00:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/social/</loc>
-    <lastmod>2024-01-22T23:23:48+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/</loc>
     <lastmod>2024-01-22T23:23:48+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/android/</loc>
@@ -143,9 +167,6 @@
     <loc>https://thatisdrtruman.github.io/tags/story/</loc>
     <lastmod>2023-12-24T21:09:38+00:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/audio/</loc>
-    <lastmod>2023-12-22T19:29:23+00:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/music/</loc>
     <lastmod>2023-12-22T19:29:23+00:00</lastmod>
   </url><url>
@@ -155,19 +176,7 @@
     <loc>https://thatisdrtruman.github.io/posts/music-i-done-and-setup/</loc>
     <lastmod>2023-12-22T19:29:23+00:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/podcast/</loc>
-    <lastmod>2023-12-22T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/podcast/</loc>
-    <lastmod>2023-12-22T19:29:23+00:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/setup/</loc>
-    <lastmod>2023-12-22T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/voice/</loc>
-    <lastmod>2023-12-22T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/voice/</loc>
     <lastmod>2023-12-22T19:29:23+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/posts/my-logo/</loc>
