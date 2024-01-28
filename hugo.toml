@@ -1,8 +1,12 @@
 baseURL = 'https://thatisdrtruman.github.io/'
 languageCode = 'en-us'
-title = 'Joseph Liu'
+title = "Joseph Liu's Portfolio and Blog"
 theme = "ananke"
 publishDir = "public"
+
+[author]
+name = "Joe Liu"
+email = "joeliu3rd@icloud.com"
 
 [outputs]
   home = ["HTML", "RSS"]
