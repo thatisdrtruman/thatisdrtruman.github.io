@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>autism on Joseph Liu</title>
+    <title>autism on Joseph Liu&#39;s Portfolio and Blog</title>
     <link>https://thatisdrtruman.github.io/tags/autism/</link>
-    <description>Recent content in autism on Joseph Liu</description>
+    <description>Recent content in autism on Joseph Liu&#39;s Portfolio and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
+    <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
     <lastBuildDate>Wed, 20 Dec 2023 16:39:10 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/autism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PECSOnline</title>
       <link>https://thatisdrtruman.github.io/posts/pecsonline/</link>
       <pubDate>Wed, 20 Dec 2023 16:39:10 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/pecsonline/</guid>
       <description>PECSOnline PECSOnline was a software I made for my individual Bachelor&amp;rsquo;s Computer Science Degree project.
 If you want me to remake it for your use: Direct Contact me via any of my social media accounts (starting your message with:

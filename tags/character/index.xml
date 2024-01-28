@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>character on Joseph Liu</title>
+    <title>character on Joseph Liu&#39;s Portfolio and Blog</title>
     <link>https://thatisdrtruman.github.io/tags/character/</link>
-    <description>Recent content in character on Joseph Liu</description>
+    <description>Recent content in character on Joseph Liu&#39;s Portfolio and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
+    <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
     <lastBuildDate>Fri, 19 Jan 2024 02:05:26 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/character/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bejin Bot</title>
       <link>https://thatisdrtruman.github.io/posts/bejin-bot/</link>
       <pubDate>Fri, 19 Jan 2024 02:05:26 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/bejin-bot/</guid>
       <description>FREE DOWNLOAD
 WIP (Still need texture and animation and bio) Bejin Bot A robot designed in Blender inspired by a robot from an Australian animator.
@@ -26,7 +28,7 @@ model-download There you are, this version of Bejin Bot is fully copyleft</descr
       <title>Grabo</title>
       <link>https://thatisdrtruman.github.io/posts/grabo/</link>
       <pubDate>Tue, 19 Dec 2023 21:14:51 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/grabo/</guid>
       <description>In July/August 2023, I worked on a My First Game Jam project called Grabo.
 Inspired by Kingdom Hearts III using Unreal Engine 4, I wanted to make an Unreal Engine 5 Game as a general 2D platformer.

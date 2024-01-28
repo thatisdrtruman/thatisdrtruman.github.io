@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Joseph Liu</title>
+    <title>About on Joseph Liu&#39;s Portfolio and Blog</title>
     <link>https://thatisdrtruman.github.io/categories/about/</link>
-    <description>Recent content in About on Joseph Liu</description>
+    <description>Recent content in About on Joseph Liu&#39;s Portfolio and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
+    <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
     <lastBuildDate>Mon, 22 Jan 2024 23:23:48 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LJ-Left Creations</title>
       <link>https://thatisdrtruman.github.io/posts/lj-left-creations/</link>
       <pubDate>Mon, 22 Jan 2024 23:23:48 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/lj-left-creations/</guid>
       <description>I have just made a Facebook Page of my creative, media and technological enterprise. It will be where I will upload all my creations, and the progress of them. The page will also have links to try out my some free content, and in the future, how to buy other contents.
 Also, my Facebook tag now links to my &amp;lsquo;LJ-Left Creations&amp;rsquo; page.
@@ -24,7 +26,7 @@ White Version:</description>
       <title>My DeviantArt Portfolio</title>
       <link>https://thatisdrtruman.github.io/posts/deviantart/</link>
       <pubDate>Sun, 24 Dec 2023 21:09:38 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/deviantart/</guid>
       <description>https://www.deviantart.com/heisdrtruman
 Before I made my blog and portfolio website, I published some art content onto DeviantArt.
@@ -38,7 +40,7 @@ Areal Figure (2018, where the area of the red circle matched the area of the gre
       <title>My Contacts 18 12 23</title>
       <link>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</link>
       <pubDate>Mon, 18 Dec 2023 13:48:43 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</guid>
       <description>UPDATE 19 Dec 2023: All my social media accounts, minus Soundcloud are now on the top and bottom of all pages - 17 Jan 2024: Removed all social media accounts that can be found on the header (these are my personal contacts, soon they will be business accounts)
 Soundcloud: https://soundcloud.com/joseph-liu-aut
@@ -49,7 +51,7 @@ UPDATE 20 Dec 2023: GX.games account: https://gx.games/studios/220aa5a8-bca4-491
       <title>I am Joe Liu</title>
       <link>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</link>
       <pubDate>Mon, 18 Dec 2023 00:52:17 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</guid>
       <description>I am a person with autism but that does not mean I am incapable of living a great and fulfilling life!
 CV (working as of 18 December 2023): https://t.ly/aQKjU

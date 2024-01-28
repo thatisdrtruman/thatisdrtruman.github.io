@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>strategy on Joseph Liu</title>
+    <title>strategy on Joseph Liu&#39;s Portfolio and Blog</title>
     <link>https://thatisdrtruman.github.io/tags/strategy/</link>
-    <description>Recent content in strategy on Joseph Liu</description>
+    <description>Recent content in strategy on Joseph Liu&#39;s Portfolio and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
+    <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
     <lastBuildDate>Mon, 22 Jan 2024 00:27:13 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/strategy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fillup Status App</title>
       <link>https://thatisdrtruman.github.io/posts/fillup-status-app/</link>
       <pubDate>Mon, 22 Jan 2024 00:27:13 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup-status-app/</guid>
       <description>This is the second post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here To download the APK, scroll to the bottom, or press here, iOS coming soon I made this app to organise my game better, by allowing players to roll their moves dice and slide their Health Point themselves. So far, only on Android 5.0+, but this proves I am capable of making mobile apps, and web applications.</description>
     </item>
@@ -20,7 +22,7 @@
       <title>Fillup</title>
       <link>https://thatisdrtruman.github.io/posts/fillup/</link>
       <pubDate>Sun, 07 Jan 2024 20:29:57 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup/</guid>
       <description>UPDATE 22 Jan 2024: After playing the game with some people and reviewing how to be more organised, I have made a Fillup Status app for players to track their HP and roll the dice themselves for the number of moves. Download it here or on &amp;lsquo;Fillup Status App&amp;rsquo; page. A game I made in July to January 2023-24, now in its testing phase.
 The manual and documentation: https://shorturl.at/kuX29

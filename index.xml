@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Joseph Liu</title>
+    <title>Joseph Liu&#39;s Portfolio and Blog</title>
     <link>https://thatisdrtruman.github.io/</link>
-    <description>Recent content on Joseph Liu</description>
+    <description>Recent content on Joseph Liu&#39;s Portfolio and Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
+    <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
     <lastBuildDate>Thu, 25 Jan 2024 23:13:11 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The LJ-Left Creations Projects Podcast Episode 0</title>
       <link>https://thatisdrtruman.github.io/posts/the-lj-left-creations-projects-podcast-ep0/</link>
       <pubDate>Thu, 25 Jan 2024 23:13:11 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/the-lj-left-creations-projects-podcast-ep0/</guid>
       <description>Hi, this is my prototype episode. Not published on podcast websites, until assured as suitable for publishing on podcast websites. Listen here or download Your browser does not support the audio element. Download Episode 0
 The pre-episode to my projects in podcast form.
@@ -23,7 +25,7 @@ Enjoy it.</description>
       <title>LJ-Left Creations</title>
       <link>https://thatisdrtruman.github.io/posts/lj-left-creations/</link>
       <pubDate>Mon, 22 Jan 2024 23:23:48 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/lj-left-creations/</guid>
       <description>I have just made a Facebook Page of my creative, media and technological enterprise. It will be where I will upload all my creations, and the progress of them. The page will also have links to try out my some free content, and in the future, how to buy other contents.
 Also, my Facebook tag now links to my &amp;lsquo;LJ-Left Creations&amp;rsquo; page.
@@ -36,7 +38,7 @@ White Version:</description>
       <title>Fillup Status App</title>
       <link>https://thatisdrtruman.github.io/posts/fillup-status-app/</link>
       <pubDate>Mon, 22 Jan 2024 00:27:13 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup-status-app/</guid>
       <description>This is the second post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here To download the APK, scroll to the bottom, or press here, iOS coming soon I made this app to organise my game better, by allowing players to roll their moves dice and slide their Health Point themselves. So far, only on Android 5.0+, but this proves I am capable of making mobile apps, and web applications.</description>
     </item>
@@ -45,7 +47,7 @@ White Version:</description>
       <title>Bejin Bot</title>
       <link>https://thatisdrtruman.github.io/posts/bejin-bot/</link>
       <pubDate>Fri, 19 Jan 2024 02:05:26 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/bejin-bot/</guid>
       <description>FREE DOWNLOAD
 WIP (Still need texture and animation and bio) Bejin Bot A robot designed in Blender inspired by a robot from an Australian animator.
@@ -60,7 +62,7 @@ model-download There you are, this version of Bejin Bot is fully copyleft</descr
       <title>Sticky Note Cards and Game</title>
       <link>https://thatisdrtruman.github.io/posts/sticky-note-cards-and-game/</link>
       <pubDate>Fri, 12 Jan 2024 16:57:59 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/sticky-note-cards-and-game/</guid>
       <description>💌👌
 or HERE
@@ -74,7 +76,7 @@ If you would like a personalised card in this style, DM me on Linkedin, Facebook
       <title>Fillup</title>
       <link>https://thatisdrtruman.github.io/posts/fillup/</link>
       <pubDate>Sun, 07 Jan 2024 20:29:57 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup/</guid>
       <description>UPDATE 22 Jan 2024: After playing the game with some people and reviewing how to be more organised, I have made a Fillup Status app for players to track their HP and roll the dice themselves for the number of moves. Download it here or on &amp;lsquo;Fillup Status App&amp;rsquo; page. A game I made in July to January 2023-24, now in its testing phase.
 The manual and documentation: https://shorturl.at/kuX29
@@ -85,7 +87,7 @@ The game layout: The empty playing board All basic items tokens ready to put in 
       <title>My DeviantArt Portfolio</title>
       <link>https://thatisdrtruman.github.io/posts/deviantart/</link>
       <pubDate>Sun, 24 Dec 2023 21:09:38 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/deviantart/</guid>
       <description>https://www.deviantart.com/heisdrtruman
 Before I made my blog and portfolio website, I published some art content onto DeviantArt.
@@ -99,7 +101,7 @@ Areal Figure (2018, where the area of the red circle matched the area of the gre
       <title>Music I Done and Setup</title>
       <link>https://thatisdrtruman.github.io/posts/music-i-done-and-setup/</link>
       <pubDate>Fri, 22 Dec 2023 19:29:23 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/music-i-done-and-setup/</guid>
       <description>This is how I set up the microphone before I record my voice.
 For voice acting, singing, rapping or speaking.
@@ -111,7 +113,7 @@ I first made this box out of acoustic foam attached to cardboard in February whe
       <title>My designed logo</title>
       <link>https://thatisdrtruman.github.io/posts/my-logo/</link>
       <pubDate>Thu, 21 Dec 2023 12:38:06 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/my-logo/</guid>
       <description>Look at the logo in the top left, or in the mobile&amp;rsquo;s case, the top.
 That is my logo.
@@ -124,7 +126,7 @@ That is how I named my business and my logo. To conclude, the name and the logo 
       <title>PECSOnline</title>
       <link>https://thatisdrtruman.github.io/posts/pecsonline/</link>
       <pubDate>Wed, 20 Dec 2023 16:39:10 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/pecsonline/</guid>
       <description>PECSOnline PECSOnline was a software I made for my individual Bachelor&amp;rsquo;s Computer Science Degree project.
 If you want me to remake it for your use: Direct Contact me via any of my social media accounts (starting your message with:
@@ -137,7 +139,7 @@ The app was usable on the PC, on phone and tablet, via the internet and a browse
       <title>Grabo</title>
       <link>https://thatisdrtruman.github.io/posts/grabo/</link>
       <pubDate>Tue, 19 Dec 2023 21:14:51 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/grabo/</guid>
       <description>In July/August 2023, I worked on a My First Game Jam project called Grabo.
 Inspired by Kingdom Hearts III using Unreal Engine 4, I wanted to make an Unreal Engine 5 Game as a general 2D platformer.
@@ -148,7 +150,7 @@ Grabo, a beartrap in a 2D platformer who needs to destroy all melty liquid vats.
       <title>My Contacts 18 12 23</title>
       <link>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</link>
       <pubDate>Mon, 18 Dec 2023 13:48:43 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/my-contacts-18-12-23/</guid>
       <description>UPDATE 19 Dec 2023: All my social media accounts, minus Soundcloud are now on the top and bottom of all pages - 17 Jan 2024: Removed all social media accounts that can be found on the header (these are my personal contacts, soon they will be business accounts)
 Soundcloud: https://soundcloud.com/joseph-liu-aut
@@ -159,7 +161,7 @@ UPDATE 20 Dec 2023: GX.games account: https://gx.games/studios/220aa5a8-bca4-491
       <title>I am Joe Liu</title>
       <link>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</link>
       <pubDate>Mon, 18 Dec 2023 00:52:17 +0000</pubDate>
-      
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</guid>
       <description>I am a person with autism but that does not mean I am incapable of living a great and fulfilling life!
 CV (working as of 18 December 2023): https://t.ly/aQKjU
