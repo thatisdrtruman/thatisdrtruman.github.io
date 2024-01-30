@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
     <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
-    <lastBuildDate>Thu, 25 Jan 2024 23:13:11 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Jan 2024 16:08:22 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fillup Status App 1.1</title>
+      <link>https://thatisdrtruman.github.io/posts/fillup-status-app-1.1/</link>
+      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/fillup-status-app-1.1/</guid>
+      <description>This is the third post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here, the second here To download the APK, scroll to the bottom, or press here, iOS coming soon I now added two EditText boxes to mark in your player&amp;rsquo;s coordinates, bolded the title and slightly condense them features together.
+The HP bar (the number changes as you use the slider) Download Enjoy!</description>
+    </item>
+    
     <item>
       <title>The LJ-Left Creations Projects Podcast Episode 0</title>
       <link>https://thatisdrtruman.github.io/posts/the-lj-left-creations-projects-podcast-ep0/</link>
@@ -40,7 +50,7 @@ White Version:</description>
       <pubDate>Mon, 22 Jan 2024 00:27:13 +0000</pubDate>
       <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup-status-app/</guid>
-      <description>This is the second post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here To download the APK, scroll to the bottom, or press here, iOS coming soon I made this app to organise my game better, by allowing players to roll their moves dice and slide their Health Point themselves. So far, only on Android 5.0+, but this proves I am capable of making mobile apps, and web applications.</description>
+      <description>UPDATE 30/01/2024: Download now at fillup-status-app-1.1 This is the second post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here To download the APK, go here, iOS coming soon I made this app to organise my game better, by allowing players to roll their moves dice and slide their Health Point themselves. So far, only on Android 5.0+, but this proves I am capable of making mobile apps, and web applications.</description>
     </item>
     
     <item>
