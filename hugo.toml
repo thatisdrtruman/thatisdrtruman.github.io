@@ -70,5 +70,5 @@ label = "My RSS, useful if you want to have updates about me"
 
 [[params.ananke_socials]]
 name = "youtube"
-url = ""
-label = "Youtube account (Coming Soon)"
+url = "https://youtube.com/@LJ-LeftCreations"
+label = "My Business Youtube account"
