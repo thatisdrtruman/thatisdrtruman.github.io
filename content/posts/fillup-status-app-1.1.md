@@ -7,9 +7,10 @@ featured_image = "img/fillup-status-app-header.JPG"
 description = "There's now your coordinates editor, so you don't have to remind where you are"
 categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS']
 +++
+## UPDATE 01/02/2024: Download now at fillup-status-app-1.2
 ## This is the third post to 'Fillup', to see the first post about it, go [here](/posts/fillup), the second [here](/posts/fillup-status-app)
 
-### To download the APK, scroll to the bottom, or press [here](#download), iOS coming soon
+### To download the APK, go [here](/posts/fillup-status-app-1.2), iOS coming soon
 I now added two EditText boxes to mark in your player's coordinates, bolded the title and slightly condense them features together.
 
 ### The HP bar (the number changes as you use the slider)
@@ -17,5 +18,3 @@ I now added two EditText boxes to mark in your player's coordinates, bolded the 
 
 ![Change the textbox to put in your numbers](/img/coordinates2.JPG)
 
-## Download
-[Enjoy!](/fillup-status-1.1.apk)
