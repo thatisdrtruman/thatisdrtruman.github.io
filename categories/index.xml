@@ -8,7 +8,70 @@
     <language>en-us</language>
     <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
     <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
-    <lastBuildDate>Wed, 31 Jan 2024 19:52:08 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Feb 2024 01:25:20 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>https://thatisdrtruman.github.io/categories/android/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>https://thatisdrtruman.github.io/categories/app/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Board Game</title>
+      <link>https://thatisdrtruman.github.io/categories/board-game/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/board-game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://thatisdrtruman.github.io/categories/design/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fillup</title>
+      <link>https://thatisdrtruman.github.io/categories/fillup/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/fillup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://thatisdrtruman.github.io/categories/games/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://thatisdrtruman.github.io/categories/ios/</link>
+      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/ios/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>About</title>
       <link>https://thatisdrtruman.github.io/categories/about/</link>
@@ -24,69 +87,6 @@
       <pubDate>Wed, 31 Jan 2024 19:52:08 +0000</pubDate>
       <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/links/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>https://thatisdrtruman.github.io/categories/android/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>App</title>
-      <link>https://thatisdrtruman.github.io/categories/app/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Board Game</title>
-      <link>https://thatisdrtruman.github.io/categories/board-game/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/board-game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>https://thatisdrtruman.github.io/categories/design/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fillup</title>
-      <link>https://thatisdrtruman.github.io/categories/fillup/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/fillup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Games</title>
-      <link>https://thatisdrtruman.github.io/categories/games/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://thatisdrtruman.github.io/categories/ios/</link>
-      <pubDate>Tue, 30 Jan 2024 16:08:22 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/ios/</guid>
       <description></description>
     </item>
     
