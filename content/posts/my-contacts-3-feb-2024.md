@@ -1,6 +1,6 @@
 +++
-title = 'My Contacts 18 12 23'
-date = 2023-12-18T13:48:43Z
+title = 'Extra contacts as of 3 Feb 2024'
+date = 2024-02-03T13:48:43Z
 draft = false
 tags = ['about', 'links']
 categories = ['About', 'Links']
@@ -13,6 +13,14 @@ description = "A list of all my social media contacts"
 (these are my personal contacts, soon they will be business accounts)
 
 Soundcloud: https://soundcloud.com/joseph-liu-aut
+
+Instagram: https://www.instagram.com/thatisdrtruman/
+
+Twitter/X: https://twitter.com/liuj40149012
+
+Deviantart: https://www.deviantart.com/heisdrtruman (Dormant)
+
+Twitch: https://www.twitch.tv/heisdrtruman
 
 ## UPDATE 20 Dec 2023: GX.games account:
 https://gx.games/studios/220aa5a8-bca4-4917-90b2-53bbcd15afaf/

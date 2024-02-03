@@ -36,17 +36,12 @@ email = "joeliu3rd@icloud.com"
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/joseph-liu-9b022b1b0/"
-label = "My Linkedin"
+label = "My LinkedIn account"
 
 [[params.ananke_socials]]
 name = "facebook"
 url = "https://www.facebook.com/people/LJ-Left-Creations-by-Joe-Liu/61555492546128/"
 label = "My Facebook Enterprise Page: LJ-Left Creations by Joe Liu"
-
-[[params.ananke_socials]]
-name = "instagram"
-url = "https://www.instagram.com/thatisdrtruman/"
-label = "My Insta"
 
 [[params.ananke_socials]]
 name = "tiktok"
@@ -56,12 +51,7 @@ label = "My tiktok international account"
 [[params.ananke_socials]]
 name = "github"
 url = "https://github.com/thatisdrtruman/"
-label = "My github"
-
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/liuj40149012"
-label = "My X or Twitter"
+label = "My Github"
 
 [[params.ananke_socials]]
 name = "rss"
@@ -72,3 +62,8 @@ label = "My RSS, useful if you want to have updates about me"
 name = "youtube"
 url = "https://youtube.com/@LJ-LeftCreations"
 label = "My Business Youtube account"
+
+[[menu.main]]
+    name = "Contact Me"
+    identifier = "Contact Me"
+    url = "/contact-me/"
