@@ -8,7 +8,34 @@
     <language>en-us</language>
     <managingEditor>joeliu3rd@icloud.com (Joe Liu)</managingEditor>
     <webMaster>joeliu3rd@icloud.com (Joe Liu)</webMaster>
-    <lastBuildDate>Sat, 03 Feb 2024 13:48:43 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Feb 2024 00:40:13 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>design</title>
+      <link>https://thatisdrtruman.github.io/tags/design/</link>
+      <pubDate>Tue, 06 Feb 2024 00:40:13 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://thatisdrtruman.github.io/tags/development/</link>
+      <pubDate>Tue, 06 Feb 2024 00:40:13 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>job</title>
+      <link>https://thatisdrtruman.github.io/tags/job/</link>
+      <pubDate>Tue, 06 Feb 2024 00:40:13 +0000</pubDate>
+      <author>joeliu3rd@icloud.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/job/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>about</title>
       <link>https://thatisdrtruman.github.io/tags/about/</link>
@@ -33,24 +60,6 @@
       <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
       <author>joeliu3rd@icloud.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/app/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>design</title>
-      <link>https://thatisdrtruman.github.io/tags/design/</link>
-      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>development</title>
-      <link>https://thatisdrtruman.github.io/tags/development/</link>
-      <pubDate>Thu, 01 Feb 2024 01:25:20 +0000</pubDate>
-      <author>joeliu3rd@icloud.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/development/</guid>
       <description></description>
     </item>
     
