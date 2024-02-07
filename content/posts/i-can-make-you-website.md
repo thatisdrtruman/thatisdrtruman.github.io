@@ -9,7 +9,7 @@ categories = ['job','request']
 +++
 https://www.fiverr.com/joe_liu_devmake/create-your-websites-and-web-and-mobile-apps
 
-MORE COMING SOON
+MORE TO COME
 
 I now make your blog and/or portfolio website, like mine.
 
