@@ -7,7 +7,7 @@ featured_image = "https://upload.wikimedia.org/wikipedia/commons/1/18/Fiverr_Log
 description = "Using Fiverr, I can make you a blog and/or portfolio website"
 categories = ['job','request']
 +++
-https://www.fiverr.com/joe_liu_devmake/create-your-websites-and-web-and-mobile-apps
+https://www.fiverr.com/joe_liu_devmake/
 
 MORE TO COME
 
