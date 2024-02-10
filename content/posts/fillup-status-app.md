@@ -10,7 +10,9 @@ categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS'
 ## UPDATE 01/02/2024: Download now at fillup-status-app-1.2
 ## This is the second post to 'Fillup', to see the first post about it, go [here](/posts/fillup), or [here](/posts/fillup-status-app-1.1) for the third post
 
-### To download the APK, go [here](/posts/fillup-status-app-1.2), iOS coming soon
+### To download the APK, go [here](/posts/fillup-status-app-1.2), iOS coming soon, but now, use browser version:
+thatisdrtruman.github.io/posts/fillup-status-site
+
 I made this app to organise my game better, by allowing players to roll their moves dice and slide their Health Point themselves.
 So far, only on Android 5.0+, but this proves I am capable of making mobile apps, and web applications.
 I had help with Java and some YouTube tutorials, but we all have to start somewhere.

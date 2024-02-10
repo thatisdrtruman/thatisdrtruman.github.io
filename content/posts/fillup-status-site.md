@@ -11,3 +11,6 @@ categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS'
 
 {{< fillup-status >}}
 
+
+### To download the Android APK, go [here](/posts/fillup-status-app-1.2), if you're on PC and want to play it offine, save this page as a single file
+

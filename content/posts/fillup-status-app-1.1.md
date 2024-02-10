@@ -10,7 +10,9 @@ categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS'
 ## UPDATE 01/02/2024: Download now at fillup-status-app-1.2
 ## This is the third post to 'Fillup', to see the first post about it, go [here](/posts/fillup), the second [here](/posts/fillup-status-app)
 
-### To download the APK, go [here](/posts/fillup-status-app-1.2), iOS coming soon
+### To download the APK, go [here](/posts/fillup-status-app-1.2), iOS coming soon, but now I have a browser version:
+thatisdrtruman.github.io/posts/fillup-status-site
+
 I now added two EditText boxes to mark in your player's coordinates, bolded the title and slightly condense them features together.
 
 ### The HP bar (the number changes as you use the slider)
