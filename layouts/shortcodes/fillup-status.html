@@ -1,0 +1,34 @@
+<input type="range" min="0" max="20" value="20" class="hpSlider" id="hpID">
+    <p>Your HP: <span id="sliderValue">20</span></p>
+
+<button id="rollButton">Roll</button>
+<p id="rollNumber"></p>
+
+<script src="{{ "js/fillup-status.js" | absURL }}"></script>
+
+<p>Your coordinates:</p>
+<input type="number" id="xCoor" name="xCoor" min="1" max="100"><p>, </p><input type="number" id="xCoor" name="xCoor" min="1" max="100">
+
+<p>Your abilities:</p>
+<input type="checkbox" id="stomp" name="stomp" value="stomp">
+  <label for="stomp"> Stomp     </label>
+  <input type="checkbox" id="block" name="block" value="block">
+  <label for="block"> Block     </label>
+  <input type="checkbox" id="slide" name="slide" value="slide">
+  <label for="slide"> Slide</label><br>
+  <input type="checkbox" id="teleport" name="teleport" value="teleport">
+  <label for="teleport"> Teleport       </label>
+  <input type="checkbox" id="triplePunch" name="triplePunch" value="triplePunch">
+  <label for="triplePunch"> Triple Punch</label>
+
+  <p>Your items:</p>
+<input type="checkbox" id="lasoo" name="lasoo" value="lasoo">
+  <label for="lasoo"> Lasoo     </label>
+  <input type="checkbox" id="wall" name="wall" value="wall">
+  <label for="wall"> Wall       </label>
+  <input type="checkbox" id="mine" name="mine" value="mine">
+  <label for="mine"> Mine</label><br>
+  <input type="checkbox" id="spear" name="spear" value="spear">
+  <label for="spear"> Spear     </label>
+  <input type="checkbox" id="hpBottle" name="hpBottle" value="hpBottle">
+  <label for="hpBottle"> HP Bottle (Use: +5HP)</label>
