@@ -26,17 +26,27 @@ email = "joeliu3rd@icloud.com"
     identifier = "tags"
     url = "/tags/"
 
+[[menu.main]]
+    name = "Game Dev/Designs"
+    identifier = "game"
+    url = "/categories/games/"
+
+[[menu.main]]
+    name = "Music/Sound"
+    identifier = "sound"
+    url = "/categories/music/"
+
+[[menu.main]]
+    name = "Podcast"
+    identifier = "podcast"
+    url = "/categories/podcast/"
+
 [taxonomies]
   category = 'categories'
   tag = 'tags'
 
 [params]
   site_logo = "img/lj-left-logo-white.svg"
-
-[[params.ananke_socials]]
-name = "linkedin"
-url = "https://www.linkedin.com/in/joseph-liu-9b022b1b0/"
-label = "My LinkedIn account"
 
 [[params.ananke_socials]]
 name = "facebook"
@@ -49,6 +59,11 @@ url = "https://www.tiktok.com/@thatisdrtruman"
 label = "My tiktok international account"
 
 [[params.ananke_socials]]
+name = "youtube"
+url = "https://youtube.com/@LJ-LeftCreations"
+label = "My Business Youtube account"
+
+[[params.ananke_socials]]
 name = "github"
 url = "https://github.com/thatisdrtruman/"
 label = "My Github"
@@ -57,11 +72,6 @@ label = "My Github"
 name = "rss"
 url = "https://thatisdrtruman.github.io/index.xml"
 label = "My RSS, useful if you want to have updates about me"
-
-[[params.ananke_socials]]
-name = "youtube"
-url = "https://youtube.com/@LJ-LeftCreations"
-label = "My Business Youtube account"
 
 [[menu.main]]
     name = "Contact Me"

@@ -1,7 +1,7 @@
 +++
 title = 'Extra contacts as of 3 Feb 2024'
 date = 2024-02-03T13:48:43Z
-draft = false
+draft = true
 tags = ['about', 'links']
 categories = ['About', 'Links']
 description = "A list of all my social media contacts"
@@ -15,6 +15,8 @@ description = "A list of all my social media contacts"
 Soundcloud: https://soundcloud.com/joseph-liu-aut
 
 Instagram: https://www.instagram.com/thatisdrtruman/
+
+Linkedin: https://www.linkedin.com/in/joseph-liu-9b022b1b0/
 
 Twitter/X: https://twitter.com/liuj40149012
 
