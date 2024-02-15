@@ -12,6 +12,7 @@ function displayRoll(){
 //event listen to button
 document.getElementById('rollButton').addEventListener('click', displayRoll);
 
+//event to display number from slider
 var slider = document.getElementById("hpID");
 var output = document.getElementById("sliderValue");
 output.innerHTML = slider.value;
