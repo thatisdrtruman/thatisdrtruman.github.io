@@ -17,14 +17,14 @@ email = "joeliu3rd@icloud.com"
     url = "/posts/i-am-joe-liu/"
 
 [[menu.main]]
-    name = "Categories"
-    identifier = "categories"
-    url = "/categories/"
+    name = "Tech Dev"
+    identifier = "techdev"
+    url = "/categories/app/"
 
 [[menu.main]]
-    name = "Tags"
-    identifier = "tags"
-    url = "/tags/"
+    name = "Podcast"
+    identifier = "podcast"
+    url = "/categories/podcast/"
 
 [[menu.main]]
     name = "Game Dev/Designs"
@@ -35,11 +35,6 @@ email = "joeliu3rd@icloud.com"
     name = "Music/Sound"
     identifier = "sound"
     url = "/categories/music/"
-
-[[menu.main]]
-    name = "Podcast"
-    identifier = "podcast"
-    url = "/categories/podcast/"
 
 [taxonomies]
   category = 'categories'
