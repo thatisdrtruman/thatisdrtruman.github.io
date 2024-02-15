@@ -17,6 +17,11 @@ email = "joeliu3rd@icloud.com"
     url = "/posts/i-am-joe-liu/"
 
 [[menu.main]]
+    name = "Writing"
+    identifier = "writings"
+    url = "/categories/writings/"
+
+[[menu.main]]
     name = "Tech Dev"
     identifier = "techdev"
     url = "/categories/app/"
