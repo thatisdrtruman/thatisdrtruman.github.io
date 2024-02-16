@@ -17,7 +17,7 @@ email = "joeliu3rd@icloud.com"
     url = "/posts/i-am-joe-liu/"
 
 [[menu.main]]
-    name = "Writing"
+    name = "Writing (WIP)"
     identifier = "writings"
     url = "/categories/writings/"
 
@@ -62,6 +62,11 @@ label = "My tiktok international account"
 name = "youtube"
 url = "https://youtube.com/@LJ-LeftCreations"
 label = "My Business Youtube account"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/joseph-liu-9b022b1b0/"
+label = "LinkedIn"
 
 [[params.ananke_socials]]
 name = "github"
