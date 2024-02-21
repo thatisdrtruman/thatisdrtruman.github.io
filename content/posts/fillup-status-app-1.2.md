@@ -10,7 +10,7 @@ categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS'
 ## This is the fourth post to 'Fillup', to see the first post about it, go [here](/posts/fillup), the second [here](/posts/fillup-status-app), or the [third](/posts/fillup-status-app-1.1)
 
 ### To download the APK, go [here](#download), iOS coming soon, but now have a browser version:
-thatisdrtruman.github.io/posts/fillup-status-site
+[Site for web app](/posts/fillup-status-site)
 
 I now added ten checkboxes to mark in your player's inventory. Whether you already have one of the items and/or abilities.
 ![The checklist](/img/abilities_item_checkbox.JPG)
