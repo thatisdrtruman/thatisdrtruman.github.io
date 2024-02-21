@@ -4,12 +4,19 @@ title = "Joseph Liu's Portfolio and Blog"
 theme = "ananke"
 publishDir = "public"
 
+# [module] Think about this soon...
+#  [[module.imports]]
+#  path = "github.com/olivernn/lunr.js"
+
 [author]
 name = "Joe Liu"
-email = "joeliu3rd@icloud.com"
+email = "joeliuprimary@gmail.com"
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS", "JSON"]
+  taxonomy = ["HTML", "RSS", "JSON"]
+  term = ["HTML", "RSS", "JSON"]
 
 [[menu.main]]
     name = "About Me"
