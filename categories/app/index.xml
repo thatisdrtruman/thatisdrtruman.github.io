@@ -8,7 +8,17 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Fri, 09 Feb 2024 23:31:35 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 23:53:43 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatbot</title>
+      <link>https://thatisdrtruman.github.io/posts/chatbot/</link>
+      <pubDate>Wed, 21 Feb 2024 23:53:43 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/chatbot/</guid>
+      <description>Scroll to the bottom and check it out!
+Use Crisp to do it. Thanks Hugo Addon page.</description>
+    </item>
+    
     <item>
       <title>Fillup Status Site</title>
       <link>https://thatisdrtruman.github.io/posts/fillup-status-site/</link>

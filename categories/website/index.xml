@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Website on Joseph Liu&#39;s Portfolio and Blog</title>
+    <link>https://thatisdrtruman.github.io/categories/website/</link>
+    <description>Recent content in Website on Joseph Liu&#39;s Portfolio and Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
+    <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
+    <lastBuildDate>Wed, 21 Feb 2024 23:53:43 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chatbot</title>
+      <link>https://thatisdrtruman.github.io/posts/chatbot/</link>
+      <pubDate>Wed, 21 Feb 2024 23:53:43 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/chatbot/</guid>
+      <description>Scroll to the bottom and check it out!
+Use Crisp to do it. Thanks Hugo Addon page.</description>
+    </item>
+    
+  </channel>
+</rss>
