@@ -55,8 +55,13 @@ label = "My Facebook Enterprise Page: LJ-Left Creations by Joe Liu"
 
 [[params.ananke_socials]]
 name = "tiktok"
-url = "https://www.tiktok.com/@thatisdrtruman"
-label = "My tiktok international account"
+url = "https://www.tiktok.com/@ljleft_creations"
+label = "My TikTok International account"
+
+[[params.ananke_socials]]
+name = "instagram"
+url = "https://www.instagram.com/ljleftcreationsbyjoeliu/"
+label = "Instagram Business Account"
 
 [[params.ananke_socials]]
 name = "youtube"
