@@ -54,6 +54,8 @@ email = "joeliuprimary@gmail.com"
 
 [params]
   site_logo = "img/lj-left-logo-white.svg"
+  search = true
+  search_minify = false
 
 [[params.ananke_socials]]
 name = "facebook"
