@@ -1,17 +1,12 @@
 +++
-title = 'Extra contacts as of 3 Feb 2024'
-date = 2024-02-21T13:48:43Z
+title = 'Personal Contacts'
+date = 2024-02-21T17:40:18Z
 draft = false
 tags = ['about', 'links']
 categories = ['About', 'Links']
 description = "A list of all my social media contacts"
 +++
-
-## UPDATE 19 Dec 2023: All my social media accounts, minus Soundcloud are now on the top and bottom of all pages
-## - 17 Jan 2024: Removed all social media accounts that can be found on the header
-## - 21 Feb 2024: Now, all personal accounts here, header are business accounts.
-
-(these are my personal contacts, soon they will be personal accounts, as I put business account on the top)
+(these are my personal contacts, as I put business account on the top)
 
 Soundcloud: https://soundcloud.com/joseph-liu-aut
 
