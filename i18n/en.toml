@@ -25,11 +25,17 @@ other = "Your Name"
 [emailAddress]
 other = "Email Address"
 
+[formTitle]
+other = "Subject"
+
 [message]
 other = "Message"
 
 [emailRequiredNote]
 other = "An email address is required."
+
+[subjectRequiredNote]
+other = "I require what you'd like."
 
 [send]
 other = "Send"
