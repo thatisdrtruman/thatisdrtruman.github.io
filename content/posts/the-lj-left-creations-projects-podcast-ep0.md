@@ -12,9 +12,7 @@ categories = ['Podcast','Voice', 'The LJ-Left Creations Projects']
 ![Cover of this podcast](/podcast-episode/the-lj-left-creations-projects.png)
 
 ## Listen here or download
-{{< audio src="/podcast-episode/the_lj_left_projects_podcast_intro_trailer_episode_0.mp3" >}}
-
-[Download Episode 0](/podcast-episode/the_lj_left_projects_podcast_intro_trailer_episode_0.mp3)
+[Download/Play Episode 0](https://drive.google.com/file/d/1d0mDM_J9FzcpiumNXScLcYhybLAyPFB7/view)
 
 The pre-episode to my projects in podcast form.
 
