@@ -9,7 +9,7 @@ categories = ['Design', 'Card', 'Art', 'Games']
 +++
 💌👌
 
-{{< embedded src="https://archive.org/embed/vid-20240110-010339" >}}
+{{< embedded src="https://archive.org/embed/vid-20240110-010339" width="400" height="460" >}}
 
 or [HERE](https://shorturl.at/HOPZ6)
 

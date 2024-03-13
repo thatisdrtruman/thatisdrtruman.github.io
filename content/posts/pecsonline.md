@@ -20,7 +20,7 @@ If you want me to remake it for your use: Direct Contact me via any of my social
 
 <!--- Find out how the embedded work by going to layouts/shortcodes/embedded.html ) -->
 
-{{< embedded src="https://archive.org/embed/joseph-liu-pecs-online-playthrough" >}}
+{{< embedded src="https://archive.org/embed/joseph-liu-pecs-online-playthrough" width="400" height="460" >}}
 
 If you can't see it: https://archive.org/embed/joseph-liu-pecs-online-playthrough
 
