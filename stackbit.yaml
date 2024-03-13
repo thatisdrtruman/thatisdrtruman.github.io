@@ -102,6 +102,9 @@ models:
             name: instagram
             label: Instagram
           - type: string
+            name: whatsapp
+            label: Whatsapp
+          - type: string
             name: youtube
             label: Youtube
           - type: string

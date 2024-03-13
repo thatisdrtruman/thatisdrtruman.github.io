@@ -1,6 +1,6 @@
 baseURL = 'https://thatisdrtruman.github.io/'
 languageCode = 'en-us'
-title = "Joseph Liu's Portfolio and Blog"
+title = "LJ-Left Creations Blog"
 theme = "ananke"
 publishDir = "public"
 
@@ -86,6 +86,11 @@ label = "LinkedIn"
 name = "github"
 url = "https://github.com/thatisdrtruman/"
 label = "My Github"
+
+[[params.ananke_socials]]
+name = "whatsapp"
+url = "https://wa.me/+447459186208"
+label = "Whatsapp"
 
 [[params.ananke_socials]]
 name = "rss"

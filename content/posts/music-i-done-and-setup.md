@@ -24,4 +24,4 @@ Such as using Cakewalk (free), with VST, VST3 and vocal supports.
 
 I think it worked, and I will use it when I make vocal based things.
 
-Go to Tiktok to find out several cases of my work using the box.
+Go to Tiktok or YouTube to find out several cases of my work using the box.

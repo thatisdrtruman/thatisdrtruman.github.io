@@ -1,7 +1,7 @@
 +++
 title = 'My Fav Streams'
 date = 2023-01-10T11:51:32Z
-draft = true
+draft = false
 tags = []
 featured_image = ""
 description = "Daily, i use these streams to listen and download internet radios. More convenient for me to use this site instead of email."
@@ -22,7 +22,7 @@ http://listen-nation.sharp-stream.com/tcbridge.mp3?ref=RF - Bridge
 
 http://listen-nation.sharp-stream.com/tcnationi.aac
 
-http://listen-nation.sharp-stream.com/tcbay.aac - Eas
+http://listen-nation.sharp-stream.com/tcbay.aac - SwanseaBay
 
 http://listen-nation.sharp-stream.com/tcnationdigital.aac
 
@@ -41,7 +41,6 @@ http://timesradio.wireless.radio/stream-mobile?ref=rf - Times
 http://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
 
 http://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac?aw_0_1st.skey=1651569029&aw_0_1st.playerid=BMUK_RPi - Jazz FM
-http://edge-bauerall-01-gos2.sharp-stream.com/jazz.http://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac
 
 http://icy-e-04.sharp-stream.com/ucbuk.aac
 http://icy-e-04.sharp-stream.com/ucbinspirational.aac
