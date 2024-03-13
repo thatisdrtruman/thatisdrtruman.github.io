@@ -1,14 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publishes from Joe Liu on Joseph Liu&#39;s Portfolio and Blog</title>
+    <title>Publishes from Joe Liu on LJ-Left Creations Blog</title>
     <link>https://thatisdrtruman.github.io/posts/</link>
-    <description>Recent content in Publishes from Joe Liu on Joseph Liu&#39;s Portfolio and Blog</description>
+    <description>Recent content in Publishes from Joe Liu on LJ-Left Creations Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Wed, 13 Mar 2024 12:51:59 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Mar 2024 15:48:15 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whatsapp</title>
+      <link>https://thatisdrtruman.github.io/posts/whatsapp/</link>
+      <pubDate>Wed, 13 Mar 2024 15:48:15 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/whatsapp/</guid>
+      <description>https://wa.me/+447459186208</description>
+    </item>
+    
     <item>
       <title>Joseph Liu - Inspect</title>
       <link>https://thatisdrtruman.github.io/posts/inspect_original_song/</link>
@@ -290,6 +299,34 @@ My dreams are to be a novelist of a unique series, developer/designer of various
 I have a blog on all my works and my portfolio here.
 Notable works:
 Two original songs (&amp;lsquo;Your Heroes Inside&amp;rsquo; and &amp;lsquo;Inspect&amp;rsquo;) and accompanying music videos, as the sole director, producer, editor, composer, and singer-songwriter on TikTok, soon to be on YouTube.</description>
+    </item>
+    
+    <item>
+      <title>My Fav Streams</title>
+      <link>https://thatisdrtruman.github.io/posts/my-fav-streams/</link>
+      <pubDate>Tue, 10 Jan 2023 11:51:32 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/my-fav-streams/</guid>
+      <description>http://lstn.lv/bbc.m3u8?station=bbc_radio_two&amp;amp;bitrate=48000
+http://lstn.lv/bbc.m3u8?station=bbc_asian_network&amp;amp;bitrate=48000
+http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&amp;amp;bitrate=48000
+http://lstn.lv/bbc.m3u8?station=bbc_radio_wales_am&amp;amp;bitrate=48000 http://lstn.lv/bbc.m3u8?station=bbc_radio_wales_fm&amp;amp;bitrate=48000
+http://listen-nation.sharp-stream.com/tcnation.aac - Nation Wales http://listen-nation.sharp-stream.com/tcnationi.aac?ref=RF http://listen-nation.sharp-stream.com/tcbridge.mp3?ref=RF - Bridge
+http://listen-nation.sharp-stream.com/tcnationi.aac
+http://listen-nation.sharp-stream.com/tcbay.aac - SwanseaBay
+http://listen-nation.sharp-stream.com/tcnationdigital.aac
+http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
+http://edge-bauerall-01-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1651569106&amp;amp;aw_0_1st.playerid=BMUK_RPi - GHR South Wales
+http://edge-bauerall-01-gos2.sharp-stream.com/hits.aac - Hits Radio
+http://radio.talksport.com/stream-mobile - talkSPORT AAC http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
+http://radio.virginradio.co.uk/stream-mobile http://radio.virginradio.co.uk/stream-chilled-mobile http://timesradio.wireless.radio/stream-mobile?ref=rf - Times http://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
+http://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac?aw_0_1st.skey=1651569029&amp;amp;aw_0_1st.playerid=BMUK_RPi - Jazz FM
+http://icy-e-04.sharp-stream.com/ucbuk.aac http://icy-e-04.sharp-stream.com/ucbinspirational.aac http://icy-e-04.sharp-stream.com/ssvcbfbs1.aac - BFBS R1 http://icy-e-04.sharp-stream.com/ssvcbfbs2.aac
+http://icy-e-04.sharp-stream.com/ssvcbfbs11.aac
+http://media-ice.musicradio.com/SmoothSouthWales http://media-ice.musicradio.com/HeartSouthWales http://media-ice.musicradio.com/CapitalSouthWales http://media-ice.musicradio.com/ClassicFM http://media-the.musicradio.com/Gold
+http://media-the.musicradio.com/LBCNewsUK
+http://media-the.musicradio.com/LBCUKMP3
+http://tx.planetradio.co.uk/icecast.php?i=countryhits.aac - ABS Country https://radio.virginradio.co.uk/stream-virginradio4-mobile http://radio.virginradio.co.uk/stream-anthems-mobile http://pcr.streamguys1.com/pcrnational-64k.mp3?ref=RF</description>
     </item>
     
   </channel>
