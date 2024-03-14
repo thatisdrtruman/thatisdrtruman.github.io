@@ -11,5 +11,6 @@ categories = []
 
 If you have bought something physical, I should be able to send it to you soon.
 
-[Blog Homepage](/)
+[Homepage](https://lj-leftcreations.my.canva.site/)
 
+[Blog Homepage](/)

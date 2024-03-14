@@ -24,6 +24,11 @@ email = "joeliuprimary@gmail.com"
     url = "/posts/i-am-joe-liu/"
 
 [[menu.main]]
+    name = "Homepage"
+    identifier = "homepage"
+    url = "https://lj-leftcreations.my.canva.site/"
+
+[[menu.main]]
     name = "Writing (WIP)"
     identifier = "writings"
     url = "/categories/writings/"
