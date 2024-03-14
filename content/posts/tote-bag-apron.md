@@ -9,7 +9,7 @@ categories = ['shop','purchase']
 +++
 {{< paypal-apron >}} 
 
-Do you need an ethical cloth when cooking? I have the Tote Bag Apron!
+Do you need some protective clothes when cooking? I have the Tote Bag Apron!
 
 ### Only £19.99 plus Post & Package
 ![apron](/img/tote_bag_apron.jpg)
