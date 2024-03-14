@@ -8,7 +8,43 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Wed, 13 Mar 2024 23:51:34 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 00:56:58 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://thatisdrtruman.github.io/categories/about/</link>
+      <pubDate>Thu, 14 Mar 2024 00:56:58 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design</title>
+      <link>https://thatisdrtruman.github.io/categories/design/</link>
+      <pubDate>Thu, 14 Mar 2024 00:56:58 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://thatisdrtruman.github.io/categories/links/</link>
+      <pubDate>Thu, 14 Mar 2024 00:56:58 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Website</title>
+      <link>https://thatisdrtruman.github.io/categories/website/</link>
+      <pubDate>Thu, 14 Mar 2024 00:56:58 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>purchase</title>
       <link>https://thatisdrtruman.github.io/categories/purchase/</link>
@@ -24,24 +60,6 @@
       <pubDate>Wed, 13 Mar 2024 23:51:34 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/shop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://thatisdrtruman.github.io/categories/about/</link>
-      <pubDate>Wed, 13 Mar 2024 15:48:15 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>https://thatisdrtruman.github.io/categories/links/</link>
-      <pubDate>Wed, 13 Mar 2024 15:48:15 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/links/</guid>
       <description></description>
     </item>
     
@@ -82,15 +100,6 @@
     </item>
     
     <item>
-      <title>Website</title>
-      <link>https://thatisdrtruman.github.io/categories/website/</link>
-      <pubDate>Wed, 21 Feb 2024 23:53:43 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>YouTube</title>
       <link>https://thatisdrtruman.github.io/categories/youtube/</link>
       <pubDate>Thu, 15 Feb 2024 11:37:10 +0000</pubDate>
@@ -114,15 +123,6 @@
       <pubDate>Fri, 09 Feb 2024 23:31:35 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/board-game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Design</title>
-      <link>https://thatisdrtruman.github.io/categories/design/</link>
-      <pubDate>Fri, 09 Feb 2024 23:31:35 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/design/</guid>
       <description></description>
     </item>
     

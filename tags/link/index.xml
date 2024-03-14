@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>link on LJ-Left Creations Blog</title>
+    <link>https://thatisdrtruman.github.io/tags/link/</link>
+    <description>Recent content in link on LJ-Left Creations Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
+    <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
+    <lastBuildDate>Thu, 14 Mar 2024 00:56:58 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Landing Page</title>
+      <link>https://thatisdrtruman.github.io/posts/new-landing-page/</link>
+      <pubDate>Thu, 14 Mar 2024 00:56:58 +0000</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/new-landing-page/</guid>
+      <description>From now on, the Canva website is my landing page. More tidy, and bold, than my blog.
+Easily summarise what I do, not only myself, but for you.
+https://lj-leftcreations.my.canva.site/</description>
+    </item>
+    
+  </channel>
+</rss>
