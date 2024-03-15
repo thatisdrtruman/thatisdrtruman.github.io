@@ -5,7 +5,7 @@ draft = false
 tags = ['about', 'links', 'art', 'story', 'portfolio']
 featured_image = "img/deviant-arts.JPG"
 description = "My DeviantArt account, containing some art and stories before I made this website"
-categories = ['About', 'Links',]
+categories = ['About', 'Links']
 +++
 ![DeviantArt Logo](/img/dev-logo.png)
 https://www.deviantart.com/heisdrtruman
