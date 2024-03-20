@@ -10,3 +10,5 @@ categories = ['App', 'Website']
 Scroll to the bottom and check it out!
 
 Use Crisp to do it. Thanks Hugo Addon page. However, just a nice feature, but I probably won't reply as much as my social media.
+
+Featured Image courtesy of Trolli on Giphy: The Lego Movie copyright of The Lego Group and Warner Brothers.

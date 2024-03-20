@@ -16,9 +16,10 @@ CV (working as of 18 December 2023): https://t.ly/aQKjU
 
 CV (tech relevant only): https://t.ly/xYDYr
 
-My dreams are to be a novelist of a unique series, developer/designer of various projects, singer-musician, actor and podcaster.
 
 I have a blog on all my works and my portfolio [here](https://thatisdrtruman.github.io).
+
+And a landing page to all my works [here](https://lj-leftcreations.my.canva.site/).
 
 Notable works:
 
@@ -27,10 +28,12 @@ Notable works:
 2. **PECS-Online**
 A PECS communication web application for my Bachelor's degree. Shows off my HTML, CSS, JavaScript, PHP and SQL skills and disability assistance. This app was presented in Interact 2023 and now published as a [conference paper](https://link.springer.com/chapter/10.1007/978-3-031-42293-5_70)
 
-1. **Grabo** - itch.io My First Game Jam 2023 submission (Unfinished game written in Unreal Engine 5.2.1): https://thatisdrtruman.itch.io/ - Shows my game development-designing skills.
+3. **Grabo** - itch.io My First Game Jam 2023 submission (Unfinished game written in Unreal Engine 5.2.1): https://thatisdrtruman.itch.io/ - Shows my game development-designing skills.
 #UPDATE: Read more [here](https://thatisdrtruman.github.io/posts/grabo/)
 
-1. **Fillup** - Prototype Battle Royale Start-with-nothing Board and Video game.
+4. **Fillup** - Prototype Battle Royale Start-with-nothing Board and Video game. The status app and website, which you can find [right here](/posts/fillup-status-site/)
+
+5. **Tote bag clothes** - Creating aprons, acupressure bracelets and clothes using tote bags. You can buy some by going to the **'Shop'** category. You can also inquire about prices and projects to solve your needs.
 
 
 Come back to find out my projects and devlogs.
