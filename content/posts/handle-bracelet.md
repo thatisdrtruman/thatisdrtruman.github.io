@@ -14,10 +14,15 @@ Do you need some protective bracelet to de-stress?
 Here is the Bag Handle Acupressure Bracelet! The bracelet you only need!
 The hard ball at the end of the bracelet presses hard on your wrist, stopping nausea!
 
-Anxious? Travelling? Going somewhere tall! Wear one to calm down! 
+Anxious? Travelling? Going somewhere tall! Wear one to calm down, and relax! Also stops nausea
 
-### Only £15.99
+Or wear 2, and relax more or de-nauseate effectively.
+
+### Only £17.99
 ### plus Post & Package
+
+### 2 For £31.99 (great bargain)
+
 ### GET ONE FOR FREE when you buy your first Tote bag apron!
 
 ![bracelet](/img/handle-bracelet.jpg)
@@ -25,3 +30,5 @@ Anxious? Travelling? Going somewhere tall! Wear one to calm down!
 [BUY THE APRON!](/posts/tote-bag-apron)
 
 Too expensive? Contact me [here](/contact-me/)
+
+Read the Buyer's Rights below.

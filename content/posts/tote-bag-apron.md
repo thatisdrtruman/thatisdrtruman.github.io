@@ -14,7 +14,7 @@ Do you need some protective clothes when cooking? I have the Tote Bag Apron!
 
 ### Only £21.99
 ### plus Post & Package
-### FREE handle acupressure bracelet on every first purchase (normal price: £15.99 + P&P)
+### FREE handle acupressure bracelet on every first purchase (normal price: £17.99 + P&P)
 ![tote bag apron](/img/tote_bag_apron.jpg)
 
 ![acupressure bracelet](/img/handle-bracelet.jpg)
@@ -23,3 +23,5 @@ To buy the bracelet:
 {{< paypal paypal-id="26G7W27AY4JWG" memo="I am so happy you decided to organically de-stress. Enjoy it!" >}} 
 
 Too expensive? Contact me [here](/contact-me/)
+
+Read the Buyer's Rights below.
