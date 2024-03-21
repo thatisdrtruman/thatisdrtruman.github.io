@@ -20,7 +20,7 @@ Do you need some protective clothes when cooking? I have the Tote Bag Apron!
 ![acupressure bracelet](/img/handle-bracelet.jpg)
 
 To buy the bracelet:
-{{< paypal paypal-id="26G7W27AY4JWG" memo="I am so happy you decided to organically de-stress. Enjoy it!" >}} 
+{{< paypal_2options >}} 
 
 Too expensive? Contact me [here](/contact-me/)
 

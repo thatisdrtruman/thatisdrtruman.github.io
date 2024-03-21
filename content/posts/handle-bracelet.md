@@ -8,7 +8,7 @@ description = "A de-stressing bracelet for just £15.99 plus Post & Package"
 categories = ['shop','purchase']
 +++
 To buy the bracelet:
-{{< paypal paypal-id="26G7W27AY4JWG" memo="I am so happy you decided to organically de-stress. Enjoy it!" >}} 
+{{< paypal_2options >}} 
 
 Do you need some protective bracelet to de-stress?
 Here is the Bag Handle Acupressure Bracelet! The bracelet you only need!
