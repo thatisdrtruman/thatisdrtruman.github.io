@@ -248,6 +248,7 @@
         
 
 
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 <form class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/xyyrewor" method="POST" role="form">
 
     <label class="f6 b db mb1 mt3 sans-serif mid-gray"  for="name">Your Name</label>
@@ -266,7 +267,8 @@
 
     <label class="f6 b db mb1 mt3 sans-serif mid-gray" for="message">Message</label>
     <textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" required placeholder=" " aria-labelledby="message"></textarea>
-
+    <div class="g-recaptcha" data-sitekey="6LcO6KEpAAAAAANkbPxVRDoFcbh5pcwVJkmJTKLb" required placeholder=" "></div>
+    <br/>
     <input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="Send" />
 
 </form>
