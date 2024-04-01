@@ -34,7 +34,7 @@ email = "joeliuprimary@gmail.com"
     url = "https://lj-leftcreations.my.canva.site/"
 
 [[menu.main]]
-    name = "Writing (WIP)"
+    name = "Writings"
     identifier = "writings"
     url = "/categories/writings/"
 
