@@ -31,3 +31,6 @@ My heart cannot survive my brain.
 My brain cannot survive my heart.
 
 If you do not live with both, HOW ARE YOU?!
+
+![CC BY 4.0 DEED](https://upload.wikimedia.org/wikipedia/commons/e/e1/CC_BY_icon.svg)
+## Under CC BY 4.0 DEED - Created by Joseph Liu, all other rights reserved
