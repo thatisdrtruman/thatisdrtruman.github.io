@@ -7,6 +7,8 @@ featured_image = "img/fillup-status-app-header.JPG"
 description = "There's now a checklist for your items and abilities, so you don't need to memorise what you have"
 categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS']
 +++
+{{< addtoany >}} 
+
 ## This is the fourth post to 'Fillup', to see the first post about it, go [here](/posts/fillup), the second [here](/posts/fillup-status-app), or the [third](/posts/fillup-status-app-1.1)
 
 ### To download the APK, go [here](#download), iOS coming soon, but now have a browser version:

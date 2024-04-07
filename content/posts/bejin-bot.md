@@ -7,6 +7,8 @@ featured_image = "img/bejin-bot/logo.JPG"
 description = "Blender simple robot model, no colours,**FREE DOWNLOAD**"
 categories = ['Video Game', 'Design', 'Games']
 +++
+{{< addtoany >}} 
+
 **FREE DOWNLOAD**
 ## WIP (Still need texture and animation and bio)
 

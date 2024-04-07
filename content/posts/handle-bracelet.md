@@ -7,6 +7,8 @@ featured_image = "img/handle-bracelet.jpg"
 description = "A de-stressing bracelet for just £13.99 plus Post & Package"
 categories = ['shop','purchase']
 +++
+{{< addtoany >}} 
+
 To buy the bracelet:
 {{< paypal_2options >}} 
 

@@ -7,6 +7,7 @@ featured_image = "/img/landing-page.JPG"
 description = ""
 categories = ['About', 'Links', 'Website', 'Design']
 +++
+{{< addtoany >}} 
 
 From now on, the Canva website is my landing page. More tidy, and bold, than my blog.
 
@@ -15,3 +16,23 @@ From now on, the Canva website is my landing page. More tidy, and bold, than my 
 Easily summarise what I do, not only myself, but for you.
 
 https://lj-leftcreations.my.canva.site/
+
+Here's what I do extracted from my IG account:
+
+🖥️📱💻Tech Dev/Design
+
+🎮 All kinds Game Dev/Design
+
+♫ Musician/Singer-Songwriter
+
+✍️ Writer/Author
+
+Video Maker
+
+Podcast
+
+👕Clothes
+
+🕺 Movements
+
+Loves Creativity

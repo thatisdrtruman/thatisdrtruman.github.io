@@ -7,6 +7,8 @@ featured_image = "img/page.jpg"
 description = "A fairly unique idea for an events card. Make some art with sticky notes and overfill it so that you remove them to reveal the right image."
 categories = ['Design', 'Card', 'Art', 'Games']
 +++
+{{< addtoany >}} 
+
 💌👌
 
 {{< embedded src="https://archive.org/embed/vid-20240110-010339" width="400" height="460" >}}

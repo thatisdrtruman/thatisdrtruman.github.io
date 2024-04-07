@@ -7,6 +7,7 @@ featured_image = "img/th.jpg"
 description = "A web and online based application on PECS, which is now academically published."
 categories = ['Software', 'Accessibility']
 +++
+{{< addtoany >}} 
 
 ## PECSOnline
 

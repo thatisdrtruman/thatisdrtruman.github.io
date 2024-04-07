@@ -7,6 +7,7 @@ featured_image = ""
 description = "My first poem under the psuedonym and main character in a story series: Mitcham Gross"
 categories = ['writings', 'poem']
 +++
+{{< addtoany >}} 
 
 ## My first poem under the psuedonym and main character in a story series: Mitcham Gross
 

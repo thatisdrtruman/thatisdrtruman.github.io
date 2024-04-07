@@ -7,6 +7,8 @@ featured_image = ""
 description = "Why I publish it here"
 categories = ['About']
 +++
+{{< addtoany >}} 
+
 ![Name: Joseph Liu, Developer/Designer on Technology/Entertainment, Website: https://lj-leftcreations.my.canva.site/](/img/business_card_v2.png)
 When I go to conferences and events, I should give my business card to people.
 

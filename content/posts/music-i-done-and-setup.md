@@ -7,6 +7,8 @@ featured_image = ""
 description = "How I make songs and how I set them up"
 categories = ['Music','Podcast','Voice']
 +++
+{{< addtoany >}} 
+
 ![Setup](/img/sing-and-voice-setup1.jpg)
 ![Setup2](/img/sing-and-voice-setup2.jpg)
 

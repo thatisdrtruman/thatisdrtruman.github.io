@@ -7,6 +7,8 @@ featured_image = "https://i.ytimg.com/vi/-WBFbdrRGi0/hqdefault.jpg?sqp=-oaymwEcC
 description = "My second music video, made for my University's film submission in 2023. An Indie based original song."
 categories = ['Music','Video','Voice']
 +++
+{{< addtoany >}} 
+
 🎶🎶
 
 A song I made in Feb-Mar 2023 for a geeky contest. Original, and I started getting better at music production, with equalizing, producing and songwriting and vocal.

@@ -7,6 +7,8 @@ featured_image = "img/fillup-status-site.JPG"
 description = "The Fillup Status App, for iOS and computers"
 categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS', 'Internet', 'Web']
 +++
+{{< addtoany >}} 
+
 ## Fillup-status-app but in a browser, internet required:
 
 {{< fillup-status >}}

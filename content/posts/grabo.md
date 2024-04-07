@@ -7,6 +7,8 @@ featured_image = "img/grabo.png"
 description = "A prototype abandoned game I started making in Unreal 5.2"
 categories = ['Video Game', 'Design', 'Games']
 +++
+{{< addtoany >}} 
+
 ![Grabo logo](/img/grabo.png)
 
 In July/August 2023, I worked on a My First Game Jam project called Grabo.

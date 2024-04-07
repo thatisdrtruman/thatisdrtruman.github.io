@@ -7,6 +7,7 @@ featured_image = "img/lj-left-creations.png"
 description = "My freelancing enterprise, of all the creations I have done and are doing"
 categories = ['Design', 'About', 'Links']
 +++
+{{< addtoany >}} 
 
 I have just made a Facebook Page of my creative, media and technological enterprise. It will be where I will upload all my creations, and the progress of them.
 The page will also have links to try out my some free content, and in the future, how to buy other contents.
