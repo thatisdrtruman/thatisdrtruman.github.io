@@ -29,8 +29,9 @@ http://listen-nation.sharp-stream.com/tcnationdigital.aac
 http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
 
 http://edge-bauerall-01-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi - GHR South Wales
+http://edge-bauerall-03-gos2.sharp-stream.com/net1swansea.aac - Hits SWales
 
-http://edge-bauerall-01-gos2.sharp-stream.com/hits.aac - Hits Radio
+http://edge-bauerall-01-gos2.sharp-stream.com/hits.aac - S hit
 
 http://radio.talksport.com/stream-mobile - talkSPORT AAC
 http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
