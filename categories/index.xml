@@ -8,7 +8,16 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Mon, 01 Apr 2024 20:55:20 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 00:39:57 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software</title>
+      <link>https://thatisdrtruman.github.io/categories/software/</link>
+      <pubDate>Sun, 28 Apr 2024 00:39:57 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/software/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>poem</title>
       <link>https://thatisdrtruman.github.io/categories/poem/</link>
@@ -258,15 +267,6 @@
       <pubDate>Wed, 20 Dec 2023 16:39:10 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/accessibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Software</title>
-      <link>https://thatisdrtruman.github.io/categories/software/</link>
-      <pubDate>Wed, 20 Dec 2023 16:39:10 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/software/</guid>
       <description></description>
     </item>
     
