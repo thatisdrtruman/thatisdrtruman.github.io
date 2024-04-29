@@ -1,6 +1,6 @@
 +++
-title = 'Fillup Status App 1.2'
-date = 2024-02-01T01:25:20Z
+title = 'Fillup Status App 1.3'
+date = 2024-04-28T01:25:20Z
 draft = false
 tags = ['game', 'development', 'design', 'writing', 'luck', 'tabletop', 'strategy', 'organise', 'app','mobile', 'update']
 featured_image = "img/fillup-status-app-header.JPG"
@@ -17,6 +17,8 @@ categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS'
 I now added ten checkboxes to mark in your player's inventory. Whether you already have one of the items and/or abilities.
 ![The checklist](/img/abilities_item_checkbox.JPG)
 
+And there is a new Coordinate generator.
+
 ## Download
-[Download](/fillup-status-1.2.apk)
+[Download](/fillup-status-1.3.apk)
 
