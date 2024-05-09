@@ -57,3 +57,6 @@ And my time at the conference, with Fernando Loizedes:
 ![Both of us](/img/projof.jpg)
 ![Me at the conf](/img/meatinteract.jpg)
 
+Lastly: The dissertation:
+https://drive.google.com/file/d/1yH66EAcBsYhlQO7-SleZXsSg8bqMFemU/view?usp=sharing
+
