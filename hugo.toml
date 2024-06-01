@@ -103,6 +103,11 @@ url = "https://wa.me/+447459186208"
 label = "Whatsapp"
 
 [[params.ananke_socials]]
+name = "Linktree"
+url = "https://linktr.ee/lj_leftcreations"
+label = "All my other links"
+
+[[params.ananke_socials]]
 name = "rss"
 url = "https://thatisdrtruman.github.io/index.xml"
 label = "My RSS, useful if you want to have updates about me"
