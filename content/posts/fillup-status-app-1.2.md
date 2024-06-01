@@ -5,7 +5,7 @@ draft = false
 tags = ['game', 'development', 'design', 'writing', 'luck', 'tabletop', 'strategy', 'organise', 'app','mobile', 'update']
 featured_image = "img/fillup-status-app-header.JPG"
 description = "There's now a checklist for your items and abilities, so you don't need to memorise what you have"
-categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS']
+categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS','Tech']
 +++
 {{< addtoany >}} 
 

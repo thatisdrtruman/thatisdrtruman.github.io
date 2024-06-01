@@ -5,7 +5,7 @@ draft = false
 tags = ['game', 'development', 'design', 'writing', 'luck', 'tabletop', 'strategy', 'organise', 'app','mobile', 'update']
 featured_image = "img/fillup-status-app-header.JPG"
 description = "There's now your coordinates editor, so you don't have to remind where you are"
-categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS']
+categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS','Tech']
 +++
 ## UPDATE 01/02/2024: Download now at fillup-status-app-1.2
 ## This is the third post to 'Fillup', to see the first post about it, go [here](/posts/fillup), the second [here](/posts/fillup-status-app)

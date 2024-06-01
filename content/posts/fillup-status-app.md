@@ -5,7 +5,7 @@ draft = false
 tags = ['game', 'development', 'design', 'writing', 'luck', 'tabletop', 'strategy', 'organise', 'app','mobile']
 featured_image = "img/fillup-status-app-header.JPG"
 description = "I created a slider and number generating app to complement with my Fillup tabletop game"
-categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS']
+categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS','Tech']
 +++
 ## UPDATE 01/02/2024: Download now at fillup-status-app-1.2
 ## This is the second post to 'Fillup', to see the first post about it, go [here](/posts/fillup), or [here](/posts/fillup-status-app-1.1) for the third post

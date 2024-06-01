@@ -5,7 +5,7 @@ draft = false
 tags = ['game', 'dormant', 'development', 'design', 'character']
 featured_image = "img/grabo.png"
 description = "A prototype abandoned game I started making in Unreal 5.2"
-categories = ['Video Game', 'Design', 'Games']
+categories = ['Video Game', 'Design', 'Games','Tech']
 +++
 {{< addtoany >}} 
 

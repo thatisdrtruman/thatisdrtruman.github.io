@@ -41,7 +41,7 @@ email = "joeliuprimary@gmail.com"
 [[menu.main]]
     name = "Tech Dev"
     identifier = "techdev"
-    url = "/categories/app/"
+    url = "/categories/tech/"
 
 [[menu.main]]
     name = "Podcast"

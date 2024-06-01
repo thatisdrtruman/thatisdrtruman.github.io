@@ -5,7 +5,7 @@ draft = false
 tags = ['accessibility', 'software', 'children', 'autism', 'conference', 'development', 'design']
 featured_image = "img/th.jpg"
 description = "A web and online based application on PECS, which is now academically published."
-categories = ['Software', 'Accessibility']
+categories = ['Software', 'Accessibility','Tech']
 +++
 {{< addtoany >}} 
 

@@ -5,7 +5,7 @@ draft = false
 tags = ['game', 'model', 'development', 'design', 'character', '3D']
 featured_image = "img/bejin-bot/logo.JPG"
 description = "Blender simple robot model, no colours,**FREE DOWNLOAD**"
-categories = ['Video Game', 'Design', 'Games']
+categories = ['Video Game', 'Design', 'Games','Tech']
 +++
 {{< addtoany >}} 
 

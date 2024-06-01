@@ -5,7 +5,7 @@ draft = false
 tags = ['development']
 featured_image = ""
 description = ""
-categories = ['Software']
+categories = ['Software','Tech']
 +++
 Here is a test on react:
 {{< react-test >}}

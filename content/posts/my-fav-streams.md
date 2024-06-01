@@ -104,7 +104,7 @@ http://media-sov.musicradio.com/CapitalBrighton
 http://media-ice.musicradio.com/HeartSussex
 http://stream.gaydio.co.uk/gaydiosc.aac?ref=rf  
 http://edge-bauerall-01-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi
-http://ais-sa2.cdnstream1.com/2382_48.aac?ref=RF Lite Radio
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
 http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)
+http:\\radio.virginradio.co.uk\stream-pride-mobile?ref=RF
