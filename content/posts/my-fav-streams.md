@@ -107,4 +107,4 @@ http://edge-bauerall-01-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=16515
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
 http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)
-http:\\radio.virginradio.co.uk\stream-pride-mobile?ref=RF
+http://radio.virginradio.co.uk\stream-pride-mobile?ref=RF
