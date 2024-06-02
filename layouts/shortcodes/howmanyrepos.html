@@ -1,7 +1,9 @@
 <p>I have: <span id="repoCount"></span> repos on my Github Account</p>
 <ul id="repoList"></ul>
-
-    <script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<canvas id="repoChart" width="800" height="400"></canvas>
+    
+<script>
         // Fetch data from GitHub API
         fetch('https://api.github.com/users/thatisdrtruman/repos')
         .then(response => response.json())
@@ -9,12 +11,42 @@
             const repoCountElement = document.getElementById('repoCount');
             const repoList = document.getElementById('repoList');
             repoCountElement.textContent = data.length; // Set the count of repositories
+            const languages = {}; // initialise the list of languages
 
             data.forEach(repo => {
                 const listItem = document.createElement('li');
                 listItem.textContent = repo.name;
                 repoList.appendChild(listItem);
+                const lang = repo.language;
+                    if (lang) {
+                        if (!languages[lang]) {
+                            languages[lang] = 1;
+                        } else {
+                            languages[lang]++;
+                        }
+                    }
             });
+            const ctx = document.getElementById('repoChart').getContext('2d');
+                const chart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(languages),
+                        datasets: [{
+                            label: 'Number of Repositories by Language',
+                            data: Object.values(languages),
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1,
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
             })
             .catch(error => console.error('Error fetching data:', error));
     </script>
