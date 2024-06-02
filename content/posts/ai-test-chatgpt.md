@@ -7,7 +7,7 @@ featured_image = "img/letusgo.jpg"
 description = "One of the AI bot powered by Chat-GPT I made for a travel business, showing a list of 5 holidays from one place to another"
 categories = ['Tech']
 +++
-I made a bot that suggested 5 holidays, with the method of travel, date, and price.
+I made a bot that suggested 5 holidays, with the method of travel, date, and price. It was originally hosted on freeaikit , but with its closure, I put it in this blog.
 
 Copy this on your favourite AI Chatbot.
 
