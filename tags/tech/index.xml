@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tech on LJ-Left Creations Blog</title>
+    <link>https://thatisdrtruman.github.io/tags/tech/</link>
+    <description>Recent content in tech on LJ-Left Creations Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
+    <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
+    <lastBuildDate>Sun, 02 Jun 2024 19:12:52 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ai Test Chatgpt</title>
+      <link>https://thatisdrtruman.github.io/posts/ai-test-chatgpt/</link>
+      <pubDate>Sun, 02 Jun 2024 19:12:52 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/ai-test-chatgpt/</guid>
+      <description>I made a bot that suggested 5 holidays, with the method of travel, date, and price.
+Copy this on your favourite AI Chatbot.
+Please suggest me 5 holidays from [Insert departing place] to [Insert Destination]. Ensure you provide what is the travel method, date of travel and the duration of the holiday and the travel agent and provider of the holiday and the price per person in Pound Sterling and US Dollars, and the link to the holiday.</description>
+    </item>
+    
+  </channel>
+</rss>

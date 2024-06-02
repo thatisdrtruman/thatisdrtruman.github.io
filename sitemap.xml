@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thatisdrtruman.github.io/tags/ai/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/posts/ai-test-chatgpt/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/posts/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/tech/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/tech/</loc>
+    <lastmod>2024-06-02T19:12:52+01:00</lastmod>
+  </url><url>
     <loc>https://thatisdrtruman.github.io/categories/android/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
@@ -12,9 +36,6 @@
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/board-game/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/design/</loc>
@@ -41,9 +62,6 @@
     <loc>https://thatisdrtruman.github.io/categories/ios/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/luck/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
@@ -53,19 +71,10 @@
     <loc>https://thatisdrtruman.github.io/tags/organise/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/posts/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/strategy/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/tabletop/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/tech/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/update/</loc>
@@ -364,8 +373,5 @@
   </url><url>
     <loc>https://thatisdrtruman.github.io/posts/i-am-joe-liu/</loc>
     <lastmod>2023-12-18T00:52:17+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/posts/my-fav-streams/</loc>
-    <lastmod>2023-01-10T11:51:32+00:00</lastmod>
   </url>
 </urlset>
