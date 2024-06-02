@@ -41,13 +41,13 @@ I have: repos on my Github Account
 Look in my Github for details." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://thatisdrtruman.github.io/posts/react-test/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2024-04-28T00:39:57+01:00" />
-<meta property="article:modified_time" content="2024-04-28T00:39:57+01:00" />
+<meta property="article:published_time" content="2024-06-02T20:01:57+01:00" />
+<meta property="article:modified_time" content="2024-06-02T20:01:57+01:00" />
 <meta itemprop="name" content="React &#43; REST API Test">
 <meta itemprop="description" content="Here is a test on react: &lt;!DOCTYPE html&gt; And on REST APIs:
 I have: repos on my Github Account
-Look in my Github for details."><meta itemprop="datePublished" content="2024-04-28T00:39:57+01:00" />
-<meta itemprop="dateModified" content="2024-04-28T00:39:57+01:00" />
+Look in my Github for details."><meta itemprop="datePublished" content="2024-06-02T20:01:57+01:00" />
+<meta itemprop="dateModified" content="2024-06-02T20:01:57+01:00" />
 <meta itemprop="wordCount" content="25">
 <meta itemprop="keywords" content="development," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="React &#43; REST API Test"/>
@@ -303,7 +303,7 @@ Look in my Github for details."/>
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2024-04-28T00:39:57+01:00">April 28, 2024</time>
+      <time class="f6 mv4 dib tracked" datetime="2024-06-02T20:01:57+01:00">June 2, 2024</time>
       
 
       
@@ -349,8 +349,10 @@ Look in my Github for details."/>
 <p>And on REST APIs:</p>
 <p>I have: <span id="repoCount"></span> repos on my Github Account</p>
 <ul id="repoList"></ul>
-
-    <script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<canvas id="repoChart" width="800" height="400"></canvas>
+    
+<script>
         
         fetch('https://api.github.com/users/thatisdrtruman/repos')
         .then(response => response.json())
@@ -358,12 +360,42 @@ Look in my Github for details."/>
             const repoCountElement = document.getElementById('repoCount');
             const repoList = document.getElementById('repoList');
             repoCountElement.textContent = data.length; 
+            const languages = {}; 
 
             data.forEach(repo => {
                 const listItem = document.createElement('li');
                 listItem.textContent = repo.name;
                 repoList.appendChild(listItem);
+                const lang = repo.language;
+                    if (lang) {
+                        if (!languages[lang]) {
+                            languages[lang] = 1;
+                        } else {
+                            languages[lang]++;
+                        }
+                    }
             });
+            const ctx = document.getElementById('repoChart').getContext('2d');
+                const chart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: Object.keys(languages),
+                        datasets: [{
+                            label: 'Number of Repositories by Language',
+                            data: Object.values(languages),
+                            backgroundColor: 'rgba(75, 192, 192, 0.2)',
+                            borderColor: 'rgba(75, 192, 192, 1)',
+                            borderWidth: 1,
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true
+                            }
+                        }
+                    }
+                });
             })
             .catch(error => console.error('Error fetching data:', error));
     </script>
@@ -392,6 +424,10 @@ Look in my Github for details."/>
     <p class="f5 b mb3">Related</p>
     <ul class="pa0 list">
 	   
+	     <li  class="mb2">
+          <a href="/posts/fillup-status-app-1.2/">Fillup Status App 1.3</a>
+        </li>
+	    
 	     <li  class="mb2">
           <a href="/posts/fillup-status-site/">Fillup Status Site</a>
         </li>

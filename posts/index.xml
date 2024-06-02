@@ -8,7 +8,18 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Sun, 02 Jun 2024 19:12:52 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jun 2024 20:01:57 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React &#43; REST API Test</title>
+      <link>https://thatisdrtruman.github.io/posts/react-test/</link>
+      <pubDate>Sun, 02 Jun 2024 20:01:57 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/react-test/</guid>
+      <description>Here is a test on react: &lt;!DOCTYPE html&gt; And on REST APIs:
+I have: repos on my Github Account
+Look in my Github for details.</description>
+    </item>
+    
     <item>
       <title>Ai Test Chatgpt</title>
       <link>https://thatisdrtruman.github.io/posts/ai-test-chatgpt/</link>
@@ -28,17 +39,6 @@ Please suggest me 5 holidays from [Insert departing place] to [Insert Destinatio
       <guid>https://thatisdrtruman.github.io/posts/fillup-status-app-1.2/</guid>
       <description>This is the fourth post to &amp;lsquo;Fillup&amp;rsquo;, to see the first post about it, go here, the second here, or the third To download the APK, go here, iOS coming soon, but now have a browser version: Site for web app
 I now added ten checkboxes to mark in your player&amp;rsquo;s inventory. Whether you already have one of the items and/or abilities. And there is a new Coordinate generator.</description>
-    </item>
-    
-    <item>
-      <title>React &#43; REST API Test</title>
-      <link>https://thatisdrtruman.github.io/posts/react-test/</link>
-      <pubDate>Sun, 28 Apr 2024 00:39:57 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/posts/react-test/</guid>
-      <description>Here is a test on react: &lt;!DOCTYPE html&gt; And on REST APIs:
-I have: repos on my Github Account
-Look in my Github for details.</description>
     </item>
     
     <item>
