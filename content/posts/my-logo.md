@@ -7,7 +7,7 @@ featured_image = "img/lj-left-logo.svg"
 description = "I developed this logo for simplicity and to reflect my cultural reflection in July 2023"
 categories = ['Design']
 +++
-
+{{< addtoany >}} 
 Look at the logo in the top left, or in the mobile's case, the top.
 
 That is my logo.

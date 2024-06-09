@@ -7,6 +7,7 @@ featured_image = "img/fillup/fillup-(11).jpg"
 description = "A board game I have made, ready to test. Aim: last one left wins!"
 categories = ['Design', 'Board Game', 'Fillup', 'Games']
 +++
+{{< addtoany >}} 
 ## UPDATE 22 Jan 2024: After playing the game with some people and reviewing how to be more organised, I have made a Fillup Status app for players to track their HP and roll the dice themselves for the number of moves. Download it [here](/posts/fillup-status-app) or on ['Fillup Status App'](/posts/fillup-status-app) page.
 
 A game I made in July to January 2023-24, now in its testing phase.
