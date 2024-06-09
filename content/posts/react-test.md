@@ -3,7 +3,7 @@ title = 'React + REST API Test'
 date = 2024-06-02T20:01:57+01:00
 draft = false
 tags = ['development']
-featured_image = "https://commons.wikimedia.org/wiki/File:Truncated_Bar_Graph.svg"
+featured_image = "https://upload.wikimedia.org/wikipedia/commons/9/98/Truncated_Bar_Graph.svg"
 description = "Some test on React, and REST API (using ChartJS and a bullet point list of my Github Repos and how many of them use specific programming languages)"
 categories = ['Software','Tech']
 +++
