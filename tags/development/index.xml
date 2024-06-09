@@ -15,8 +15,11 @@
       <pubDate>Sun, 02 Jun 2024 20:01:57 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/react-test/</guid>
-      <description>Here is a test on react: &lt;!DOCTYPE html&gt; And on REST APIs:
+      <description>Here is a test on react:
+&lt;!DOCTYPE html&gt; And on REST APIs:
 I have: repos on my Github Account
+Also, this is a graph of how many repos I made using specified languages.
+As I produce more repos of more programmes, this will increase.
 Look in my Github for details.</description>
     </item>
     
@@ -102,8 +105,7 @@ model-download There you are, this version of Bejin Bot is fully copyleft</descr
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup/</guid>
       <description>UPDATE 22 Jan 2024: After playing the game with some people and reviewing how to be more organised, I have made a Fillup Status app for players to track their HP and roll the dice themselves for the number of moves. Download it here or on &amp;lsquo;Fillup Status App&amp;rsquo; page. A game I made in July to January 2023-24, now in its testing phase.
-The manual and documentation: https://shorturl.at/kuX29
-The game layout: The empty playing board All basic items tokens ready to put in the game: All basic ability tokens ready to put in the game: There are 8 different abilities, each has 4 The healthboard: The player decides behind the wall what they want to do.</description>
+The manual and documentation: https://shorturl.at/kuX29</description>
     </item>
     
     <item>

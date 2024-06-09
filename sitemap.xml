@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://thatisdrtruman.github.io/categories/</loc>
-    <lastmod>2024-06-02T20:01:57+01:00</lastmod>
+    <loc>https://thatisdrtruman.github.io/tags/canva/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/development/</loc>
-    <lastmod>2024-06-02T20:01:57+01:00</lastmod>
+    <loc>https://thatisdrtruman.github.io/posts/canva-collection-1/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/creative/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/design/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/design/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/</loc>
-    <lastmod>2024-06-02T20:01:57+01:00</lastmod>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/posts/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/</loc>
+    <lastmod>2024-06-09T17:49:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/development/</loc>
     <lastmod>2024-06-02T20:01:57+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/posts/react-test/</loc>
     <lastmod>2024-06-02T20:01:57+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/software/</loc>
-    <lastmod>2024-06-02T20:01:57+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/</loc>
     <lastmod>2024-06-02T20:01:57+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/tech/</loc>
@@ -45,12 +60,6 @@
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/board-game/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/design/</loc>
-    <lastmod>2024-04-28T01:25:20+00:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/design/</loc>
     <lastmod>2024-04-28T01:25:20+00:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/fillup/</loc>

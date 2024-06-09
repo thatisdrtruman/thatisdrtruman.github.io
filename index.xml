@@ -8,15 +8,30 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Sun, 02 Jun 2024 20:01:57 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Jun 2024 17:49:40 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Canva Collection 1</title>
+      <link>https://thatisdrtruman.github.io/posts/canva-collection-1/</link>
+      <pubDate>Sun, 09 Jun 2024 17:49:40 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/canva-collection-1/</guid>
+      <description>Business Card When you go onto the blog homepage, you will see both sides of the business I give, and I can edit them when I update them.
+Podcast Cover https://thatisdrtruman.github.io/posts/the-lj-left-creations-projects-podcast-ep0/
+In this link, you will find the podcast cover, which I made using Canva, it captures my favourite colours, stand out words and my logo and the simple background.
+Landing Page Click on homepage at the top, you will go to my landing page, powered by Canva.</description>
+    </item>
+    
     <item>
       <title>React &#43; REST API Test</title>
       <link>https://thatisdrtruman.github.io/posts/react-test/</link>
       <pubDate>Sun, 02 Jun 2024 20:01:57 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/react-test/</guid>
-      <description>Here is a test on react: &lt;!DOCTYPE html&gt; And on REST APIs:
+      <description>Here is a test on react:
+&lt;!DOCTYPE html&gt; And on REST APIs:
 I have: repos on my Github Account
+Also, this is a graph of how many repos I made using specified languages.
+As I produce more repos of more programmes, this will increase.
 Look in my Github for details.</description>
     </item>
     
@@ -356,8 +371,7 @@ If you would like a personalised card in this style, DM me on Linkedin, Facebook
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/posts/fillup/</guid>
       <description>UPDATE 22 Jan 2024: After playing the game with some people and reviewing how to be more organised, I have made a Fillup Status app for players to track their HP and roll the dice themselves for the number of moves. Download it here or on &amp;lsquo;Fillup Status App&amp;rsquo; page. A game I made in July to January 2023-24, now in its testing phase.
-The manual and documentation: https://shorturl.at/kuX29
-The game layout: The empty playing board All basic items tokens ready to put in the game: All basic ability tokens ready to put in the game: There are 8 different abilities, each has 4 The healthboard: The player decides behind the wall what they want to do.</description>
+The manual and documentation: https://shorturl.at/kuX29</description>
     </item>
     
     <item>
