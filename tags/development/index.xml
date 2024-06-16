@@ -8,7 +8,22 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Sun, 02 Jun 2024 20:01:57 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 21:35:31 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shake to Quack</title>
+      <link>https://thatisdrtruman.github.io/posts/shake-to-quack/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/shake-to-quack/</guid>
+      <description>🦆🦆
+Play it here: https://thatisdrtruman.github.io/shake_to_quack_html/
+For Android users, Download
+You can also see how I made &amp;lsquo;Shake To Quack&amp;rsquo; with Godot 3.5.3 with C# Support.
+https://github.com/thatisdrtruman/shake-to-quack
+How I decided to make it One day on Tiktok, I came across a Tokyo Disneyland Glu Glu Quacking Stick for the theme park&amp;rsquo;s Quacky City event, celebrating Donald Duck&amp;rsquo;s 90th anniversary.
+For a while, I wanted to make a game or an app on Godot and with C#, and I decided to prove myself I can code in C#, with an app version of the Stick.</description>
+    </item>
+    
     <item>
       <title>React &#43; REST API Test</title>
       <link>https://thatisdrtruman.github.io/posts/react-test/</link>

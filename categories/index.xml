@@ -8,13 +8,67 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Sun, 09 Jun 2024 17:49:40 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 21:35:31 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Android</title>
+      <link>https://thatisdrtruman.github.io/categories/android/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/android/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>App</title>
+      <link>https://thatisdrtruman.github.io/categories/app/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/app/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Design</title>
       <link>https://thatisdrtruman.github.io/categories/design/</link>
-      <pubDate>Sun, 09 Jun 2024 17:49:40 +0100</pubDate>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://thatisdrtruman.github.io/categories/internet/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://thatisdrtruman.github.io/categories/ios/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://thatisdrtruman.github.io/categories/tech/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://thatisdrtruman.github.io/categories/web/</link>
+      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/categories/web/</guid>
       <description></description>
     </item>
     
@@ -24,33 +78,6 @@
       <pubDate>Sun, 02 Jun 2024 20:01:57 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/software/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tech</title>
-      <link>https://thatisdrtruman.github.io/categories/tech/</link>
-      <pubDate>Sun, 02 Jun 2024 20:01:57 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/tech/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Android</title>
-      <link>https://thatisdrtruman.github.io/categories/android/</link>
-      <pubDate>Sun, 28 Apr 2024 01:25:20 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/android/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>App</title>
-      <link>https://thatisdrtruman.github.io/categories/app/</link>
-      <pubDate>Sun, 28 Apr 2024 01:25:20 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/app/</guid>
       <description></description>
     </item>
     
@@ -78,15 +105,6 @@
       <pubDate>Sun, 28 Apr 2024 01:25:20 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/games/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>iOS</title>
-      <link>https://thatisdrtruman.github.io/categories/ios/</link>
-      <pubDate>Sun, 28 Apr 2024 01:25:20 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/ios/</guid>
       <description></description>
     </item>
     
@@ -186,24 +204,6 @@
       <pubDate>Thu, 15 Feb 2024 11:37:10 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/categories/youtube/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Internet</title>
-      <link>https://thatisdrtruman.github.io/categories/internet/</link>
-      <pubDate>Fri, 09 Feb 2024 23:31:35 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/internet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web</title>
-      <link>https://thatisdrtruman.github.io/categories/web/</link>
-      <pubDate>Fri, 09 Feb 2024 23:31:35 +0000</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/categories/web/</guid>
       <description></description>
     </item>
     
