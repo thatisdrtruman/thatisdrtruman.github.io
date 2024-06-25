@@ -2,19 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://thatisdrtruman.github.io/categories/android/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/app/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/app/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
     <loc>https://thatisdrtruman.github.io/categories/</loc>
-    <lastmod>2024-06-17T13:54:36+01:00</lastmod>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/design/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/design/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/development/</loc>
-    <lastmod>2024-06-17T13:54:36+01:00</lastmod>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/posts/how-many-repos/</loc>
-    <lastmod>2024-06-17T13:54:36+01:00</lastmod>
+    <loc>https://thatisdrtruman.github.io/categories/internet/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/ios/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/</loc>
-    <lastmod>2024-06-17T13:54:36+01:00</lastmod>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/mobile/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/posts/ngo-skiller-prototype/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/posts/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/tech/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/ui/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/ux/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/tags/web/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/categories/web/</loc>
+    <lastmod>2024-06-25T13:44:40+01:00</lastmod>
+  </url><url>
+    <loc>https://thatisdrtruman.github.io/posts/how-many-repos/</loc>
     <lastmod>2024-06-17T13:54:36+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/categories/software/</loc>
@@ -23,52 +68,16 @@
     <loc>https://thatisdrtruman.github.io/tags/statistics/</loc>
     <lastmod>2024-06-17T13:54:36+01:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/</loc>
-    <lastmod>2024-06-17T13:54:36+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/tech/</loc>
-    <lastmod>2024-06-17T13:54:36+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/android/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/app/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/app/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/design/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/design/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/tags/fun/</loc>
     <lastmod>2024-06-16T21:35:31+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/game/</loc>
     <lastmod>2024-06-16T21:35:31+01:00</lastmod>
   </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/internet/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/ios/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/mobile/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
     <loc>https://thatisdrtruman.github.io/posts/shake-to-quack/</loc>
     <lastmod>2024-06-16T21:35:31+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/update/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/tags/web/</loc>
-    <lastmod>2024-06-16T21:35:31+01:00</lastmod>
-  </url><url>
-    <loc>https://thatisdrtruman.github.io/categories/web/</loc>
     <lastmod>2024-06-16T21:35:31+01:00</lastmod>
   </url><url>
     <loc>https://thatisdrtruman.github.io/tags/canva/</loc>

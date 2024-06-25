@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ui on LJ-Left Creations Blog</title>
+    <link>https://thatisdrtruman.github.io/tags/ui/</link>
+    <description>Recent content in ui on LJ-Left Creations Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
+    <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
+    <lastBuildDate>Tue, 25 Jun 2024 13:44:40 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/ui/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NGO Skiller Prototype</title>
+      <link>https://thatisdrtruman.github.io/posts/ngo-skiller-prototype/</link>
+      <pubDate>Tue, 25 Jun 2024 13:44:40 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/ngo-skiller-prototype/</guid>
+      <description>https://github.com/thatisdrtruman/skiller-UX-UI
+I completed this one night, for an unsuccessful project, which shows the prototype of the project in the case of the volunteer (the user with the lowest file editing rights, i.e. non-admin, temporary)
+You can test the prototype by downloading on this website: https://github.com/thatisdrtruman/skiller-UX-UI/archive/refs/heads/main.zip
+It teaches User Experience, User Interface design and shows concretely the flow and the expected actions for the user, for users to understand the flow and what they expect to see.</description>
+    </item>
+    
+  </channel>
+</rss>
