@@ -3,7 +3,7 @@ title = 'Fillup Status App'
 date = 2024-01-22T00:27:13Z
 draft = false
 tags = ['game', 'development', 'design', 'writing', 'luck', 'tabletop', 'strategy', 'organise', 'app','mobile']
-featured_image = "img/fillup-status-app-header.JPG"
+featured_image = "img/fillup-status-app-header.jpg"
 description = "I created a slider and number generating app to complement with my Fillup tabletop game"
 categories = ['Design', 'Board Game', 'Fillup', 'Games', 'App', 'Android', 'iOS','Tech']
 +++
