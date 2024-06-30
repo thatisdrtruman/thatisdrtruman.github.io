@@ -2,31 +2,22 @@
 <ul id="repoList"></ul>
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <canvas id="repoChart" width="800" height="400"></canvas>
+    
 <script>
-    function fetchAndCombineRepos(urls, countElementId, listElementId, chartElementId, chartLabel) {
-        // Fetch all URLs in parallel
-        Promise.all(urls.map(url => fetch(url).then(response => response.json())))
-            .then(allData => {
-                // Flatten the array of arrays into a single array of repositories
-                const combinedData = [].concat(...allData);
-                
-                // Update the repository count
-                const repoCountElement = document.getElementById(countElementId);
-                repoCountElement.textContent = combinedData.length;
-    
-                // Initialize the languages count
-                const languages = {};
-    
-                // Get the list element to append repositories
-                const repoList = document.getElementById(listElementId);
-                combinedData.forEach(repo => {
-                    // Add repository name to the list
-                    const listItem = document.createElement('li');
-                    listItem.textContent = repo.name;
-                    repoList.appendChild(listItem);
-    
-                    // Track the usage of each language
-                    const lang = repo.language;
+        // Fetch data from GitHub API
+        fetch('https://api.github.com/users/thatisdrtruman/repos?per_page=128')
+        .then(response => response.json())
+        .then(data => {
+            const repoCountElement = document.getElementById('repoCount');
+            const repoList = document.getElementById('repoList');
+            repoCountElement.textContent = data.length; // Set the count of repositories
+            const languages = {}; // initialise the list of languages
+
+            data.forEach(repo => {
+                const listItem = document.createElement('li');
+                listItem.textContent = repo.name;
+                repoList.appendChild(listItem);
+                const lang = repo.language;
                     if (lang) {
                         if (!languages[lang]) {
                             languages[lang] = 1;
@@ -34,16 +25,14 @@
                             languages[lang]++;
                         }
                     }
-                });
-    
-                // Create the chart for repository languages
-                const ctx = document.getElementById(chartElementId).getContext('2d');
+            });
+            const ctx = document.getElementById('repoChart').getContext('2d');
                 const chart = new Chart(ctx, {
                     type: 'bar',
                     data: {
                         labels: Object.keys(languages),
                         datasets: [{
-                            label: chartLabel,
+                            label: 'Number of Repositories by Language',
                             data: Object.values(languages),
                             backgroundColor: 'rgba(75, 192, 192, 0.2)',
                             borderColor: 'rgba(75, 192, 192, 1)',
@@ -59,23 +48,5 @@
                     }
                 });
             })
-            .catch(error => {
-                console.error('Error fetching repositories:', error);
-            });
-    }
-    
-    // URLs to fetch repositories from multiple pages
-    const repoUrls = [
-        'https://api.github.com/users/thatisdrtruman/repos?page=1',
-        'https://api.github.com/users/thatisdrtruman/repos?page=2'
-    ];
-    
-    // Fetch and display repositories from both pages
-    fetchAndCombineRepos(
-        repoUrls,
-        'repoCount',
-        'repoList',
-        'repoChart',
-        'Number of Repositories by Language'
-    );
+            .catch(error => console.error('Error fetching data:', error));
     </script>

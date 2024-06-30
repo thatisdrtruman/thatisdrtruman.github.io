@@ -9,6 +9,10 @@ categories = ['Software','Tech']
 +++
 {{< addtoany >}} 
 
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=thatisdrtruman&show_icons=true&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A)
+
+![Top Languages powered by github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thatisdrtruman&title_color=FF80BF&text_color=F8F8F2&icon_color=8AFF80&bg_color=212C2A&layout=compact&langs_count=15)
+
 {{< howmanyrepos >}}
 
 Also, this is a graph of how many repos I made using specified languages.
