@@ -8,7 +8,34 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Tue, 25 Jun 2024 13:44:40 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Jul 2024 22:57:28 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>poem</title>
+      <link>https://thatisdrtruman.github.io/tags/poem/</link>
+      <pubDate>Sun, 14 Jul 2024 22:57:28 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://thatisdrtruman.github.io/tags/story/</link>
+      <pubDate>Sun, 14 Jul 2024 22:57:28 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writings</title>
+      <link>https://thatisdrtruman.github.io/tags/writings/</link>
+      <pubDate>Sun, 14 Jul 2024 22:57:28 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/writings/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>app</title>
       <link>https://thatisdrtruman.github.io/tags/app/</link>
@@ -186,33 +213,6 @@
       <pubDate>Sun, 28 Apr 2024 01:25:20 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/writing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>poem</title>
-      <link>https://thatisdrtruman.github.io/tags/poem/</link>
-      <pubDate>Mon, 01 Apr 2024 20:55:20 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/poem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>story</title>
-      <link>https://thatisdrtruman.github.io/tags/story/</link>
-      <pubDate>Mon, 01 Apr 2024 20:55:20 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/story/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>writings</title>
-      <link>https://thatisdrtruman.github.io/tags/writings/</link>
-      <pubDate>Mon, 01 Apr 2024 20:55:20 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/writings/</guid>
       <description></description>
     </item>
     
