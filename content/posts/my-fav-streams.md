@@ -1,7 +1,7 @@
 +++
 title = 'My Fav Streams'
 date = 2023-01-10T11:51:32Z
-draft = true
+draft = false
 tags = []
 featured_image = ""
 description = ""
@@ -55,7 +55,6 @@ http://media-ice.musicradio.com/ClassicFM
 http://media-the.musicradio.com/Gold  
 
 http://media-the.musicradio.com/LBCNewsUK  
-http://media-the.musicradio.com/LBCUKMP3
 
 http://tx.planetradio.co.uk/icecast.php?i=countryhits.aac - ABS Country
 https://radio.virginradio.co.uk/stream-virginradio4-mobile
@@ -108,3 +107,13 @@ http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
 http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)
 http://radio.virginradio.co.uk/stream-pride-mobile?ref=RF
+
+Rookwood Sound: 
+https://listen.rookwoodsound.com:8132/;
+http://149.202.83.114:8130/;
+
+Newport City Rad:
+http://stream3.themediasite.co.uk:8168/stream
+http://gwentradio2.radioca.st:8299/stream
+
+
