@@ -1,5 +1,5 @@
 +++
-title = 'And We're Together'
+title = "And We're Together"
 date = 2024-08-01T23:29:06+01:00
 draft = false
 tags = tags = ['writings', 'poem', 'story']
