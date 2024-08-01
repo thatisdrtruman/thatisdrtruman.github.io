@@ -2,7 +2,7 @@
 title = "And We're Together"
 date = 2024-08-01T23:29:06+01:00
 draft = false
-tags = tags = ['writings', 'poem', 'story']
+tags = ['writings', 'poem', 'story']
 featured_image = ""
 description = "A short story about becoming together with a common ground"
 categories = ['writings', 'poem']
