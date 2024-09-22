@@ -1,6 +1,6 @@
 +++
 title = 'Leaving It'
-date = 2024-08-05T20:34:26+01:00
+date = 2024-09-22T23:34:26+01:00
 draft = false
 tags = ['writings', 'poem', 'story']
 featured_image = ""
