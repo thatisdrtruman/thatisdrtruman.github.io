@@ -1,7 +1,7 @@
 +++
 title = 'My Fav Streams'
 date = 2023-01-10T11:51:32Z
-draft = true
+draft = false
 tags = []
 featured_image = ""
 description = ""
@@ -80,7 +80,7 @@ https://mars.charterhost.co.uk/proxy/rhonddar?mp=/stream - Rhondda Radio
 
 http://streaming.broadcastradio.com:8420/brorad
 http://stream.audiospace.co:80/broradio
-http://playoutonestreaming.com:8008/stream - NRUK
+https://stream-06.aiir.com/clcb6m0k9shvv - NRUK
 
 http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
 http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
