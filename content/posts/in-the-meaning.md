@@ -6,4 +6,4 @@ now I write for the meaning.
 
 I just gave you the meaning!
 
-- Mitchell Grose (Psuedonym of Joseph Liu)
+by Mitchell Grose (Psuedonym of Joseph Liu)
