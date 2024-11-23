@@ -1,4 +1,13 @@
-+++ title = "In The Meaning" date = 2024-11-23T16:40:39 draft = false tags = ['writings', 'poem', 'story'] featured_image = "" description = "A quick fire poem" categories = ['writings', 'poem'] +++ {{< addtoany >}}
++++
+title = "In The Meaning"
+date = 2024-11-23T16:40:39
+draft = false
+tags = ['writings', 'poem', 'story']
+featured_image = ""
+description = "A quick fire poem"
+categories = ['writings', 'poem']
++++
+{{< addtoany >}}
 
 I wrote for the fun,
 
