@@ -8,20 +8,11 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Tue, 22 Oct 2024 16:39:59 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>music</title>
-      <link>https://thatisdrtruman.github.io/tags/music/</link>
-      <pubDate>Tue, 22 Oct 2024 16:39:59 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/music/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 23 Nov 2024 16:40:39 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>poem</title>
       <link>https://thatisdrtruman.github.io/tags/poem/</link>
-      <pubDate>Tue, 08 Oct 2024 18:08:59 +0100</pubDate>
+      <pubDate>Sat, 23 Nov 2024 16:40:39 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/poem/</guid>
       <description></description>
@@ -30,7 +21,7 @@
     <item>
       <title>story</title>
       <link>https://thatisdrtruman.github.io/tags/story/</link>
-      <pubDate>Tue, 08 Oct 2024 18:08:59 +0100</pubDate>
+      <pubDate>Sat, 23 Nov 2024 16:40:39 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/story/</guid>
       <description></description>
@@ -39,9 +30,18 @@
     <item>
       <title>writings</title>
       <link>https://thatisdrtruman.github.io/tags/writings/</link>
-      <pubDate>Tue, 08 Oct 2024 18:08:59 +0100</pubDate>
+      <pubDate>Sat, 23 Nov 2024 16:40:39 +0000</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/writings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://thatisdrtruman.github.io/tags/music/</link>
+      <pubDate>Tue, 22 Oct 2024 16:39:59 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/music/</guid>
       <description></description>
     </item>
     
