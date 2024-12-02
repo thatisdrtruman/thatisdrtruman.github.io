@@ -95,6 +95,12 @@ http://edge-bauerall-01-gos2.sharp-stream.com/absolute00s.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absolute70s.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/webcast3.aac - 20s
 
+https://icy-e-01.sharp-stream.com/ssvcbfbs20.aac - bfbs beats
+https://icy-e-01.sharp-stream.com/ssvcbfbs21.aac 
+https://icy-e-01.sharp-stream.com/ssvcbfbs22.aac
+https://icy-e-01.sharp-stream.com/ssvcbfbs23.aac
+https://icy-e-01.sharp-stream.com/ssvcbfbs24.aac
+
 http://s2.xrad.io:8188/stream more radio Sussex
 http://s4.xrad.io:8104/stream
 http://s2.xrad.io:8332/;.aac more Radio Retro
