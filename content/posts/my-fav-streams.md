@@ -1,24 +1,23 @@
 +++
 title = 'My Fav Streams'
-date = 2023-01-10T11:51:32Z
+date = 2020-01-10T11:51:32Z
 draft = false
 tags = []
 featured_image = ""
 description = ""
 categories = []
 +++
-http://lstn.lv/bbc.m3u8?station=bbc_radio_two&bitrate=48000
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=48000
 
-http://lstn.lv/bbc.m3u8?station=bbc_asian_network&bitrate=48000
+http://lstn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=48000
 
-http://lstn.lv/bbc.m3u8?station=bbc_radio_five_live&bitrate=48000
-
-http://lstn.lv/bbc.m3u8?station=bbc_radio_wales_am&bitrate=48000
-http://lstn.lv/bbc.m3u8?station=bbc_radio_wales_fm&bitrate=48000
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_fm&bitrate=48000
+http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_am&bitrate=48000
 
 http://listen-nation.sharp-stream.com/tcnation.aac - Nation Wales
 http://listen-nation.sharp-stream.com/tcnationi.aac?ref=RF
 http://listen-nation.sharp-stream.com/tcbridge.mp3?ref=RF - Bridge
+http://listen-nation.sharp-stream.com/tcbridge.aac?ref=RF
 
 http://listen-nation.sharp-stream.com/tcnationi.aac
 
@@ -46,8 +45,6 @@ http://icy-e-04.sharp-stream.com/ucbinspirational.aac
 http://icy-e-04.sharp-stream.com/ssvcbfbs1.aac  - BFBS R1
 http://icy-e-04.sharp-stream.com/ssvcbfbs2.aac
 
-http://icy-e-04.sharp-stream.com/ssvcbfbs11.aac
-
 http://media-ice.musicradio.com/SmoothSouthWales
 http://media-ice.musicradio.com/HeartSouthWales
 http://media-ice.musicradio.com/CapitalSouthWales
@@ -64,7 +61,6 @@ http://pcr.streamguys1.com/pcrnational-64k.mp3?ref=RF
 http://pcr.streamguys1.com/pcrnational-48k.aac?ref=RF -premier
 
 https://n23a-eu.rcs.revma.com/pq7npt2nzbuvv -fix
-
 https://n21a-eu.rcs.revma.com/pq7npt2nzbuvv?rj-ttl=5&rj-tok=AAABh_Xn3hwA1-NwxVF6zW8qPg
 
 http://radio.talksport.com/stream2-mobile - talkSPORT 2  
@@ -100,6 +96,7 @@ https://icy-e-01.sharp-stream.com/ssvcbfbs21.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs22.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs23.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs24.aac
+http://icy-e-04.sharp-stream.com/ssvcbfbs11.aac
 
 http://s2.xrad.io:8188/stream more radio Sussex
 http://s4.xrad.io:8104/stream
