@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Sun, 16 Jun 2024 21:35:31 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:39 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/update/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pythagorised Score Up</title>
+      <link>https://thatisdrtruman.github.io/posts/pythag/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/pythag/</guid>
+      <description>Play Pythagorised Scoreup! This is my game, Pythagorised Scoreup, built with Pygame and running in your browser thanks to Pygbag!
+Choose 10 cards for the base, then another 10 for the height.
+Your final score is the square root of the &amp;lsquo;square of the hypotenuse equalling to the sums of the squares on the other two sides&amp;rsquo;.
+E.g. Base score is 3, Height score is 4, Hypotenuse and your score is 5 (√(3² + 4² = 25))</description>
+    </item>
+    
     <item>
       <title>Shake to Quack</title>
       <link>https://thatisdrtruman.github.io/posts/shake-to-quack/</link>

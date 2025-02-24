@@ -18,7 +18,7 @@
       <description>Play Pythagorised Scoreup! This is my game, Pythagorised Scoreup, built with Pygame and running in your browser thanks to Pygbag!
 Choose 10 cards for the base, then another 10 for the height.
 Your final score is the square root of the &amp;lsquo;square of the hypotenuse equalling to the sums of the squares on the other two sides&amp;rsquo;.
-You can also visit the game directly here.</description>
+E.g. Base score is 3, Height score is 4, Hypotenuse and your score is 5 (√(3² + 4² = 25))</description>
     </item>
     
     <item>
