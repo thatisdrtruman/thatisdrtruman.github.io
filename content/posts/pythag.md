@@ -17,6 +17,6 @@ Choose 10 cards for the base, then another 10 for the height.
 
 Your final score is the square root of the 'square of the hypotenuse equalling to the sums of the squares on the other two sides'.
 
-<iframe src="/pythag/index.html" width="1000" height="600" style="border: none;"></iframe>
+{{< pythag >}} 
 
 You can also visit the game directly [here](/pythag/index.html).
