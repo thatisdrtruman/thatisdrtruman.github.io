@@ -8,7 +8,25 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Wed, 05 Feb 2025 18:18:21 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:39 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game</title>
+      <link>https://thatisdrtruman.github.io/tags/game/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>https://thatisdrtruman.github.io/tags/tech/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>poem</title>
       <link>https://thatisdrtruman.github.io/tags/poem/</link>
@@ -127,15 +145,6 @@
     </item>
     
     <item>
-      <title>game</title>
-      <link>https://thatisdrtruman.github.io/tags/game/</link>
-      <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>update</title>
       <link>https://thatisdrtruman.github.io/tags/update/</link>
       <pubDate>Sun, 16 Jun 2024 21:35:31 +0100</pubDate>
@@ -168,15 +177,6 @@
       <pubDate>Sun, 02 Jun 2024 19:12:52 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/ai/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tech</title>
-      <link>https://thatisdrtruman.github.io/tags/tech/</link>
-      <pubDate>Sun, 02 Jun 2024 19:12:52 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/tech/</guid>
       <description></description>
     </item>
     
