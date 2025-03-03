@@ -35,4 +35,6 @@ I was so pleased with Nikunj, and the 10 others for the best work, from the logo
 
 # Try it at the title: or download here: https://github.com/weepotty/ask-ehr
 
-Thank you all, especially you Shona (weepotty)
+[The Framework and Problem/Solutions](https://github.com/thatisdrtruman/other-uni-coursework/blob/main/AskEHR.pdf)
+
+Thank you all, especially you Shona (weepotty), and Nikunj
