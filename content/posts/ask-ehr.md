@@ -3,7 +3,7 @@ title = 'Ask-EHR'
 date = 2025-03-03T12:30:39+01:00
 draft = false
 tags = ['development', 'design','app','mobile', 'update', 'web', 'python']
-featured_image = "https://ask-ehr.streamlit.app/~/+/media/da889eb2657b322d95ceb258458e8f5fde093a7d4ef2c77922579d2e.png"
+featured_image = "https://raw.githubusercontent.com/weepotty/ask-ehr/refs/heads/main/ask_logo.png"
 description = "A Hack the NHS Hackathon produce me and a team of 12 made in Cardiff 2025."
 categories = ['Design', 'App', 'Android', 'iOS', 'Internet', 'Web','Tech', 'NHS', 'Hackathon']
 +++
