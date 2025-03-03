@@ -8,7 +8,19 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:39 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 12:30:39 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ask-EHR</title>
+      <link>https://thatisdrtruman.github.io/posts/ask-ehr/</link>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/ask-ehr/</guid>
+      <description>ASK-EHR Throughout March 1-2 2025, I was in a team of 12 to create a streamlined search directory with AI chatbot features.
+Nikunj created the idea, then attracted us into the project.
+Then, he split the team into story use cases, backend coding, frontend coding and testing and presentation. I was assigned as vice manager, checking the progress of the programme and the presentation.
+In the end, we made a working prototype, that I taught them all HuggingFace and a London person taught me Streamlit, and this was the results.</description>
+    </item>
+    
     <item>
       <title>Pythagorised Score Up</title>
       <link>https://thatisdrtruman.github.io/posts/pythag/</link>

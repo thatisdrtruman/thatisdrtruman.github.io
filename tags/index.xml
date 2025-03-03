@@ -8,11 +8,11 @@
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:39 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 03 Mar 2025 12:30:39 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>app</title>
       <link>https://thatisdrtruman.github.io/tags/app/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/app/</guid>
       <description></description>
@@ -21,7 +21,7 @@
     <item>
       <title>design</title>
       <link>https://thatisdrtruman.github.io/tags/design/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/design/</guid>
       <description></description>
@@ -30,9 +30,45 @@
     <item>
       <title>development</title>
       <link>https://thatisdrtruman.github.io/tags/development/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mobile</title>
+      <link>https://thatisdrtruman.github.io/tags/mobile/</link>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/mobile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://thatisdrtruman.github.io/tags/python/</link>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>update</title>
+      <link>https://thatisdrtruman.github.io/tags/update/</link>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://thatisdrtruman.github.io/tags/web/</link>
+      <pubDate>Mon, 03 Mar 2025 12:30:39 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/tags/web/</guid>
       <description></description>
     </item>
     
@@ -51,42 +87,6 @@
       <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
       <author>joeliuprimary@gmail.com (Joe Liu)</author>
       <guid>https://thatisdrtruman.github.io/tags/game/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mobile</title>
-      <link>https://thatisdrtruman.github.io/tags/mobile/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/mobile/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://thatisdrtruman.github.io/tags/python/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>update</title>
-      <link>https://thatisdrtruman.github.io/tags/update/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/update/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>web</title>
-      <link>https://thatisdrtruman.github.io/tags/web/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:39 +0100</pubDate>
-      <author>joeliuprimary@gmail.com (Joe Liu)</author>
-      <guid>https://thatisdrtruman.github.io/tags/web/</guid>
       <description></description>
     </item>
     
