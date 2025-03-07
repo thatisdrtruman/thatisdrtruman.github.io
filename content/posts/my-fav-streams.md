@@ -49,9 +49,9 @@ http://media-ice.musicradio.com/SmoothSouthWales
 http://media-ice.musicradio.com/HeartSouthWales
 http://media-ice.musicradio.com/CapitalSouthWales
 http://media-ice.musicradio.com/ClassicFM
-http://media-the.musicradio.com/Gold  
 
 http://media-the.musicradio.com/LBCNewsUK  
+http://media-the.musicradio.com/LBCUK  
 
 http://tx.planetradio.co.uk/icecast.php?i=countryhits.aac - ABS Country
 https://radio.virginradio.co.uk/stream-virginradio4-mobile
@@ -106,6 +106,7 @@ http://media-sov.musicradio.com/CapitalBrighton
 http://media-ice.musicradio.com/HeartSussex
 http://stream.gaydio.co.uk/gaydiosc.aac?ref=rf  
 http://edge-bauerall-01-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi
+http://listen-nation.sharp-stream.com/nationhampshire.aac?ref=RF
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
 http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)
