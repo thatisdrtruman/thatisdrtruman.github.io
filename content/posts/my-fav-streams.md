@@ -53,9 +53,9 @@ http://media-ice.musicradio.com/ClassicFM
 http://media-the.musicradio.com/LBCNewsUK  
 http://media-the.musicradio.com/LBCUK  
 
-http://tx.planetradio.co.uk/icecast.php?i=countryhits.aac - ABS Country
 https://radio.virginradio.co.uk/stream-virginradio4-mobile
 http://radio.virginradio.co.uk/stream-anthems-mobile
+http://radio.virginradio.co.uk/stream-britpop-mobile?ref=RF
 http://pcr.streamguys1.com/pcrnational-64k.mp3?ref=RF
 
 http://pcr.streamguys1.com/pcrnational-48k.aac?ref=RF -premier
@@ -82,6 +82,7 @@ http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
 http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 
 https://edge-bauerall-01-gos2.sharp-stream.com/absolute10s.aac
+https://edge-bauerall-01-gos2.sharp-stream.com/absolutecountry.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absolute60s.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrock.aac
@@ -109,7 +110,6 @@ http://edge-bauerall-01-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=16515
 http://listen-nation.sharp-stream.com/nationhampshire.aac?ref=RF
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
-http://listen-sunriseradio.sharp-stream.com/sunriseradionat.mp3?ref=RF (Sky)
 http://radio.virginradio.co.uk/stream-pride-mobile?ref=RF
 
 Rookwood Sound: 
