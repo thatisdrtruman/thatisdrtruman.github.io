@@ -84,7 +84,6 @@ http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 https://edge-bauerall-01-gos2.sharp-stream.com/absolute10s.aac
 https://edge-bauerall-01-gos2.sharp-stream.com/absolutecountry.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absolute60s.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrock.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absolute80s.aac
 http://edge-bauerall-01-gos2.sharp-stream.com/absolute90s.aac
