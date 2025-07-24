@@ -27,8 +27,8 @@ http://listen-nation.sharp-stream.com/tcnationdigital.aac
 
 http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
 
-http://edge-bauerall-01-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi - GHR South Wales
-http://edge-bauerall-01-gos2.sharp-stream.com/net1swansea.aac?aw_0_1st.skey=1715241521 - Hits SWales
+https://edge-bauerall-03-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi - GHR South Wales
+http://edge-bauerall-03-gos2.sharp-stream.com/net1swansea.aac?aw_0_1st.skey=1715241521 - Hits SWales
 
 http://radio.talksport.com/stream-mobile - talkSPORT AAC
 http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
@@ -38,12 +38,13 @@ http://radio.virginradio.co.uk/stream-chilled-mobile
 http://timesradio.wireless.radio/stream-mobile?ref=rf - Times
 http://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
 
-http://edge-bauerall-01-gos2.sharp-stream.com/jazz.aac?aw_0_1st.skey=1651569029&aw_0_1st.playerid=BMUK_RPi - Jazz FM
+https://edge-bauerall-03-gos2.sharp-stream.com/jazz.aac - Jazz FM
 
 http://icy-e-04.sharp-stream.com/ucbuk.aac
 http://icy-e-04.sharp-stream.com/ucbinspirational.aac
 http://icy-e-04.sharp-stream.com/ssvcbfbs1.aac  - BFBS R1
 http://icy-e-04.sharp-stream.com/ssvcbfbs2.aac
+https://icy-e-01.sharp-stream.com/ssvcbfbs20.aac - bfbs beats
 
 http://media-ice.musicradio.com/SmoothSouthWales
 http://media-ice.musicradio.com/HeartSouthWales
@@ -81,17 +82,16 @@ https://stream-06.aiir.com/clcb6m0k9shvv - NRUK
 http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
 http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 
-https://edge-bauerall-01-gos2.sharp-stream.com/absolute10s.aac
-https://edge-bauerall-01-gos2.sharp-stream.com/absolutecountry.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absoluteradio.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absoluteclassicrock.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absolute80s.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absolute90s.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absolute00s.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/absolute70s.aac
-http://edge-bauerall-01-gos2.sharp-stream.com/webcast3.aac - 20s
+https://edge-bauerall-03-gos2.sharp-stream.com/absolute10s.aac
+https://edge-bauerall-03-gos2.sharp-stream.com/absolutecountry.aac
+https://edge-bauerall-03-gos2.sharp-stream.com/absoluteradio.aac
+https://edge-bauerall-03-gos2.sharp-stream.com/absoluteclassicrock.aac
+https://edge-bauerall-03-gos2.sharp-stream.com/absolute80s.aac
+https://edge-bauerall-03-gos2.sharp-stream.com/absolute90s.aac
+http://edge-bauerall-03-gos2.sharp-stream.com/absolute00s.aac
+http://edge-bauerall-03-gos2.sharp-stream.com/absolute70s.aac
+http://edge-bauerall-03-gos2.sharp-stream.com/webcast3.aac - 20s
 
-https://icy-e-01.sharp-stream.com/ssvcbfbs20.aac - bfbs beats
 https://icy-e-01.sharp-stream.com/ssvcbfbs21.aac 
 https://icy-e-01.sharp-stream.com/ssvcbfbs22.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs23.aac
@@ -105,7 +105,7 @@ https://stream.v2radio.co.uk/V2RadioLQAACP - V2 Radio
 http://media-sov.musicradio.com/CapitalBrighton
 http://media-ice.musicradio.com/HeartSussex
 http://stream.gaydio.co.uk/gaydiosc.aac?ref=rf  
-http://edge-bauerall-01-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi
+https://edge-bauerall-03-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi
 http://listen-nation.sharp-stream.com/nationhampshire.aac?ref=RF
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
