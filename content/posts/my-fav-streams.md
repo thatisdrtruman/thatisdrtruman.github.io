@@ -7,12 +7,21 @@ featured_image = ""
 description = ""
 categories = []
 +++
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_two&bitrate=48000
 
-http://lstn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_1xtra&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=48000
 
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_fm&bitrate=48000
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_wales_am&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_anthems&bitrate=48000&uk=1
+
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_one_dance&bitrate=48000
+
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_five_live&bitrate=48000
+
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_wales_fm&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_wales_am&bitrate=48000
+http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three_unwind&bitrate=48000&uk=1
 
 http://listen-nation.sharp-stream.com/tcnation.aac - Nation Wales
 http://listen-nation.sharp-stream.com/tcnationi.aac?ref=RF
@@ -27,8 +36,8 @@ http://listen-nation.sharp-stream.com/tcnationdigital.aac
 
 http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
 
-https://edge-bauerall-03-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi - GHR South Wales
-http://edge-bauerall-03-gos2.sharp-stream.com/net1swansea.aac?aw_0_1st.skey=1715241521 - Hits SWales
+http://edge-bauerall-04-thn.sharp-stream.com/net2southwales.aac - GHR South Wales
+http://edge-bauerall-04-thn.sharp-stream.com/net1swansea.aac - Hits SWales
 
 http://radio.talksport.com/stream-mobile - talkSPORT AAC
 http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
@@ -82,15 +91,15 @@ https://stream-06.aiir.com/clcb6m0k9shvv - NRUK
 http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
 http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 
-https://edge-bauerall-03-gos2.sharp-stream.com/absolute10s.aac
-https://edge-bauerall-03-gos2.sharp-stream.com/absolutecountry.aac
-https://edge-bauerall-03-gos2.sharp-stream.com/absoluteradio.aac
-https://edge-bauerall-03-gos2.sharp-stream.com/absoluteclassicrock.aac
-https://edge-bauerall-03-gos2.sharp-stream.com/absolute80s.aac
-https://edge-bauerall-03-gos2.sharp-stream.com/absolute90s.aac
-http://edge-bauerall-03-gos2.sharp-stream.com/absolute00s.aac
-http://edge-bauerall-03-gos2.sharp-stream.com/absolute70s.aac
-http://edge-bauerall-03-gos2.sharp-stream.com/webcast3.aac - 20s
+https://edge-bauerall-04-thn.sharp-stream.com/absolute10s.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absolutecountry.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absoluteradio.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absoluteclassicrock.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absolute80s.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absolute90s.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absolute00s.aac
+http://edge-bauerall-04-thn.sharp-stream.com/absolute70s.aac
+http://edge-bauerall-04-thn.sharp-stream.com/webcast3.aac - 20s
 
 https://icy-e-01.sharp-stream.com/ssvcbfbs21.aac 
 https://icy-e-01.sharp-stream.com/ssvcbfbs22.aac
