@@ -47,7 +47,7 @@ http://radio.virginradio.co.uk/stream-chilled-mobile
 http://timesradio.wireless.radio/stream-mobile?ref=rf - Times
 http://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
 
-https://edge-bauerall-03-gos2.sharp-stream.com/jazz.aac - Jazz FM
+https://edge-bauerall-04-thn.sharp-stream.com/jazz.aac - Jazz FM
 
 http://icy-e-04.sharp-stream.com/ucbuk.aac
 http://icy-e-04.sharp-stream.com/ucbinspirational.aac

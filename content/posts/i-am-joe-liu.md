@@ -8,7 +8,6 @@ featured_image = "img/joe-liu-image.jpg"
 categories = ['About']
 +++
 
-![Yo](/img/joe-liu-image.jpg)
 
 I am a person with autism but that does not mean I am incapable of living a great and fulfilling life!
 
