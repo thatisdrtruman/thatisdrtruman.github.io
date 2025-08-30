@@ -36,8 +36,8 @@ http://listen-nation.sharp-stream.com/tcnationdigital.aac
 
 http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
 
-http://edge-bauerall-04-thn.sharp-stream.com/net2southwales.aac - GHR South Wales
-http://edge-bauerall-04-thn.sharp-stream.com/net1swansea.aac - Hits SWales
+http://edge-bauermz-01-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1756593945 - GHR South Wales
+http://edge-bauermz-01-gos2.sharp-stream.com/net1swansea.aac?aw_0_1st.skey=1756593945 - Hits SWales
 
 http://radio.talksport.com/stream-mobile - talkSPORT AAC
 http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
@@ -47,7 +47,7 @@ http://radio.virginradio.co.uk/stream-chilled-mobile
 http://timesradio.wireless.radio/stream-mobile?ref=rf - Times
 http://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
 
-https://edge-bauerall-04-thn.sharp-stream.com/jazz.aac - Jazz FM
+http://edge-bauermz-01-gos2.sharp-stream.com/jazz.aac?aw_0_1st.skey=1756593945 - Jazz FM
 
 http://icy-e-04.sharp-stream.com/ucbuk.aac
 http://icy-e-04.sharp-stream.com/ucbinspirational.aac
@@ -92,8 +92,8 @@ http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
 http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 
 https://edge-bauerall-04-thn.sharp-stream.com/absolute10s.aac
-http://edge-bauerall-04-thn.sharp-stream.com/absolutecountry.aac
-http://edge-bauerall-04-thn.sharp-stream.com/absoluteradio.aac
+http://edge-bauermz-01-gos2.sharp-stream.com/absolutecountry.aac?aw_0_1st.skey=1756593945
+http://edge-bauermz-01-gos2.sharp-stream.com/absoluteradio.aac?aw_0_1st.skey=1756593945
 http://edge-bauerall-04-thn.sharp-stream.com/absoluteclassicrock.aac
 http://edge-bauerall-04-thn.sharp-stream.com/absolute80s.aac
 http://edge-bauerall-04-thn.sharp-stream.com/absolute90s.aac
