@@ -53,7 +53,6 @@ http://edge-bauermz-01-gos2.sharp-stream.com/jazz.aac?aw_0_1st.skey=1756593945 -
 
 https://listen-ucb.sharp-stream.com/55_ucb_1_48_aac
 https://listen-ucb.sharp-stream.com/55_ucb_2_48_aac
-http://icy-e-04.sharp-stream.com/ucbinspirational.aac
 http://icy-e-04.sharp-stream.com/ssvcbfbs1.aac  - BFBS R1
 http://icy-e-04.sharp-stream.com/ssvcbfbs2.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs20.aac - bfbs beats
