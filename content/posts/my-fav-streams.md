@@ -36,6 +36,8 @@ http://listen-nation.sharp-stream.com/tcnationdigital.aac
 
 http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
 
+http://listen-nation.sharp-stream.com/tcpembrokeshire.aac?ref=RF
+
 http://edge-bauermz-01-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1756593945 - GHR South Wales
 
 - Hits SWales
