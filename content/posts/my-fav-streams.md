@@ -24,52 +24,56 @@ http://lsn.lv/bbcradio.m3u8?station=bbc_radio_wales_am&bitrate=48000
 http://lsn.lv/bbcradio.m3u8?station=bbc_radio_three_unwind&bitrate=48000&uk=1
 
 http://listen-nation.sharp-stream.com/tcnation.aac - Nation Wales
-http://listen-nation.sharp-stream.com/tcnationi.aac?ref=RF
 http://listen-nation.sharp-stream.com/tcbridge.mp3?ref=RF - Bridge
-http://listen-nation.sharp-stream.com/tcbridge.aac?ref=RF
+https://listen-nation.sharp-stream.com/tcbridge.aac?ref=RF
 
-http://listen-nation.sharp-stream.com/tcnationi.aac
+https://listen-nation.sharp-stream.com/tcnationi.aac
 
-http://listen-nation.sharp-stream.com/tcbay.aac - SwanseaBay
+https://listen-nation.sharp-stream.com/tcbay.aac - SwanseaBay
 
-http://listen-nation.sharp-stream.com/tcnationdigital.aac
+https://listen-nation.sharp-stream.com/tcnationdigital.aac
 
-http://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
+https://listen-nation.sharp-stream.com/tccarmarthenshire.aac?ref=RF
 
-http://listen-nation.sharp-stream.com/tcpembrokeshire.aac?ref=RF
+https://listen-nation.sharp-stream.com/tcpembrokeshire.aac?ref=RF
+
+http://solid24.streamupsolutions.com:8061/stream - VIP Lounge Cardiff
+http://149.202.83.114:8130/; - Rockwood Sound (with Sky)
+https://uksoutha.streaming.broadcast.radio/radio-wigwam - Wigwam
 
 http://edge-bauermz-01-gos2.sharp-stream.com/net2southwales.aac?aw_0_1st.skey=1756593945 - GHR South Wales
 
 - Hits SWales
-http://edge-bauermz-01-gos2.sharp-stream.com/net1swansea.aac?aw_0_1st.skey=1759349466
+http://edge-bauermz-03-gos2.sharp-stream.com/net1swansea.aac?aw_0_1st.skey=1767704267
+http://www.radiofeeds.net/playlists/bauer.pls?station=net1swansea-aac
 
-http://radio.talksport.com/stream-mobile - talkSPORT AAC
-http://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
+https://radio.talksport.com/stream-mobile - talkSPORT AAC
+https://listen-gbnews.sharp-stream.com/gbnews.aac?ref=RF - GB News
 
-http://radio.virginradio.co.uk/stream-mobile
-http://radio.virginradio.co.uk/stream-chilled-mobile
-http://timesradio.wireless.radio/stream-mobile?ref=rf - Times
-http://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
+https://radio.virginradio.co.uk/stream-mobile
+https://radio.virginradio.co.uk/stream-chilled-mobile
+https://timesradio.wireless.radio/stream-mobile?ref=rf - Times
+https://radio.talkradio.co.uk/stream-mobile?ref=rf - TalkRadioTV
 
 http://edge-bauermz-01-gos2.sharp-stream.com/jazz.aac?aw_0_1st.skey=1756593945 - Jazz FM
 
 https://listen-ucb.sharp-stream.com/55_ucb_1_48_aac
 https://listen-ucb.sharp-stream.com/55_ucb_2_48_aac
-http://icy-e-04.sharp-stream.com/ssvcbfbs1.aac  - BFBS R1
-http://icy-e-04.sharp-stream.com/ssvcbfbs2.aac
+https://icy-e-04.sharp-stream.com/ssvcbfbs1.aac  - BFBS R1
+https://icy-e-04.sharp-stream.com/ssvcbfbs2.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs20.aac - bfbs beats
 
-http://media-ice.musicradio.com/SmoothSouthWales
-http://media-ice.musicradio.com/HeartSouthWales
-http://media-ice.musicradio.com/CapitalSouthWales
-http://media-ice.musicradio.com/ClassicFM
+https://media-ice.musicradio.com/SmoothSouthWales
+https://media-ice.musicradio.com/HeartSouthWales
+https://media-ice.musicradio.com/CapitalSouthWales
+https://media-ice.musicradio.com/ClassicFM
 
-http://media-the.musicradio.com/LBCNewsUK  
-http://media-the.musicradio.com/LBCUK  
+https://media-the.musicradio.com/LBCNewsUK  
+https://media-the.musicradio.com/LBCUK  
 
 https://radio.virginradio.co.uk/stream-virginradio4-mobile
-http://radio.virginradio.co.uk/stream-anthems-mobile
-http://radio.virginradio.co.uk/stream-britpop-mobile?ref=RF
+https://radio.virginradio.co.uk/stream-anthems-mobile
+https://radio.virginradio.co.uk/stream-britpop-mobile?ref=RF
 http://pcr.streamguys1.com/pcrnational-64k.mp3?ref=RF
 
 http://pcr.streamguys1.com/pcrnational-48k.aac?ref=RF -premier
@@ -95,21 +99,20 @@ https://stream-06.aiir.com/clcb6m0k9shvv - NRUK
 http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
 http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 
-https://edge-bauerall-04-thn.sharp-stream.com/absolute10s.aac
-http://edge-bauermz-01-gos2.sharp-stream.com/absolutecountry.aac?aw_0_1st.skey=1756593945
-http://edge-bauermz-01-gos2.sharp-stream.com/absoluteradio.aac?aw_0_1st.skey=1756593945
-http://edge-bauerall-04-thn.sharp-stream.com/absoluteclassicrock.aac
-http://edge-bauerall-04-thn.sharp-stream.com/absolute80s.aac
-http://edge-bauerall-04-thn.sharp-stream.com/absolute90s.aac
-http://edge-bauerall-04-thn.sharp-stream.com/absolute00s.aac
-http://edge-bauerall-04-thn.sharp-stream.com/absolute70s.aac
-http://edge-bauerall-04-thn.sharp-stream.com/webcast3.aac - 20s
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute70s-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absoluteclassicrock-aac.m3u
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absoluteradio-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute90s-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute80s-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute00s-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute10s-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute20s-aac
 
 https://icy-e-01.sharp-stream.com/ssvcbfbs21.aac 
 https://icy-e-01.sharp-stream.com/ssvcbfbs22.aac
-https://icy-e-01.sharp-stream.com/ssvcbfbs23.aac
 https://icy-e-01.sharp-stream.com/ssvcbfbs24.aac
-http://icy-e-04.sharp-stream.com/ssvcbfbs11.aac
+https://icy-e-04.sharp-stream.com/ssvcbfbs11.aac
+https://icy-e-04.sharp-stream.com/ssvcbfbs18.aac
 
 http://s2.xrad.io:8188/stream more radio Sussex
 http://s4.xrad.io:8104/stream
