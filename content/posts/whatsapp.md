@@ -7,4 +7,4 @@ featured_image = "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.s
 description = "If you like to discuss directly to me, go to the Whatsapp logo"
 categories = ['About', 'Links']
 +++
-https://wa.me/+447459186208
+https://wa.me/+447920574835

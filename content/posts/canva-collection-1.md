@@ -10,7 +10,7 @@ categories = ['Design']
 {{< addtoany >}} 
 1. Business Card
 
-![Business Card](/img/businesscardsitev2.jpg)
+![Business Card](/img/businesscardsitev3.jpg)
 
 When you go onto the blog homepage, you will see both sides of the business I give, and I can edit them when I update them.
 
