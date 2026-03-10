@@ -109,6 +109,8 @@ https://icy-e-01.sharp-stream.com/ssvcbfbs24.aac
 https://icy-e-04.sharp-stream.com/ssvcbfbs11.aac
 https://icy-e-04.sharp-stream.com/ssvcbfbs18.aac
 
+http://uksoutha.streaming.broadcast.radio:8000/glamorg - Radio Glamorgan
+
 http://s2.xrad.io:8188/stream more radio Sussex
 http://s4.xrad.io:8104/stream
 http://s2.xrad.io:8332/;.aac more Radio Retro
@@ -116,9 +118,10 @@ https://stream.v2radio.co.uk/V2RadioLQAACP - V2 Radio
 http://media-sov.musicradio.com/CapitalBrighton
 http://media-ice.musicradio.com/HeartSussex
 http://stream.gaydio.co.uk/gaydiosc.aac?ref=rf  
-https://edge-bauerall-03-gos2.sharp-stream.com/net2sussex.aac?aw_0_1st.skey=1651569106&aw_0_1st.playerid=BMUK_RPi
-http://listen-nation.sharp-stream.com/nationhampshire.aac?ref=RF
+http://www.radiofeeds.net/playlists/bauer.pls?station=net2sussex-aac
+https://listen-nation.sharp-stream.com/838_nation_radio_south_sussex_48_he_aac_v2?ref=RF
 http://s3.radio.co:80/s59218e461/listen - Southdown Radio
+http://stream.regencyradio.co.uk:8480/applow
 http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Radio (Sky)
 http://radio.virginradio.co.uk/stream-pride-mobile?ref=RF
 
