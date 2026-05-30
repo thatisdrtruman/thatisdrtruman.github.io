@@ -69,7 +69,6 @@ https://media-the.musicradio.com/LBCUK
 https://radio.virginradio.co.uk/stream-virginradio4-mobile
 https://radio.virginradio.co.uk/stream-anthems-mobile
 https://radio.virginradio.co.uk/stream-britpop-mobile?ref=RF
-http://pcr.streamguys1.com/pcrnational-64k.mp3?ref=RF
 
 http://pcr.streamguys1.com/pcrnational-48k.aac?ref=RF -premier
 
@@ -81,18 +80,18 @@ http://radio.talksport.com/stream2-mobile - talkSPORT 2
 http://hyades.shoutca.st:8159/stream rad cardiff
 https://radiocardiff.radioca.st/stream
 
-http://radio.canstream.co.uk:8012/live.mp3 gtfm
+https://radio.canstream.co.uk:8012/live.mp3 gtfm
 https://s8.myradiostream.com:58681/stream
 https://s4.myradiostream.com:8245/listen.m4a
 
 https://mars.charterhost.co.uk/proxy/rhonddar?mp=/stream - Rhondda Radio
 
-http://streaming.broadcastradio.com:8420/brorad
-http://stream.audiospace.co:80/broradio
+https://streaming.broadcastradio.com:8420/brorad
+https://stream.audiospace.co:80/broradio
 https://stream-06.aiir.com/clcb6m0k9shvv - NRUK
 
-http://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
-http://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
+https://listen-awaite.sharp-stream.com/aspenwaiteprem.aac?ref=RF
+https://listen-gaydio.sharp-stream.com/gaydiouk.aac?ref=RF
 
 http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute70s-aac
 http://www.radiofeeds.net/playlists/bauerflash.pls?station=absoluteclassicrock-aac.m3u
@@ -102,6 +101,7 @@ http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute80s-aac
 http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute00s-aac
 http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute10s-aac
 http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolute20s-aac
+http://www.radiofeeds.net/playlists/bauerflash.pls?station=absolutecountry-aac
 
 https://icy-e-01.sharp-stream.com/ssvcbfbs21.aac 
 https://icy-e-01.sharp-stream.com/ssvcbfbs22.aac
@@ -111,9 +111,8 @@ https://icy-e-04.sharp-stream.com/ssvcbfbs18.aac
 
 http://uksoutha.streaming.broadcast.radio:8000/glamorg - Radio Glamorgan
 
-http://s2.xrad.io:8188/stream more radio Sussex
-http://s4.xrad.io:8104/stream
-http://s2.xrad.io:8332/;.aac more Radio Retro
+http:\\s2.xrad.io:8104\stream
+http:\\s2.xrad.io:8332\ more Radio Retro
 https://stream.v2radio.co.uk/V2RadioLQAACP - V2 Radio
 http://media-sov.musicradio.com/CapitalBrighton
 http://media-ice.musicradio.com/HeartSussex
@@ -126,8 +125,7 @@ http://listen-boomradio.sharp-stream.com/65_boom_radio_live_48?ref=RF - BOOM Rad
 http://radio.virginradio.co.uk/stream-pride-mobile?ref=RF
 
 Rookwood Sound: 
-https://listen.rookwoodsound.com:8132/;
-http://149.202.83.114:8130/;
+http:\\149.202.83.114:8130\;
 
 Newport City Rad:
 http://stream3.themediasite.co.uk:8168/stream
