@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website on LJ-Left Creations Blog</title>
+    <title>website on LJ-Left Creations Blog</title>
     <link>https://thatisdrtruman.github.io/categories/website/</link>
-    <description>Recent content in Website on LJ-Left Creations Blog</description>
+    <description>Recent content in website on LJ-Left Creations Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>joeliuprimary@gmail.com (Joe Liu)</managingEditor>
     <webMaster>joeliuprimary@gmail.com (Joe Liu)</webMaster>
-    <lastBuildDate>Thu, 14 Mar 2024 00:56:58 +0000</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 00:44:21 +0100</lastBuildDate><atom:link href="https://thatisdrtruman.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Business_website (j_soonlivan_site.gitlab.io)</title>
+      <link>https://thatisdrtruman.github.io/posts/business_website/</link>
+      <pubDate>Sun, 07 Jun 2026 00:44:21 +0100</pubDate>
+      <author>joeliuprimary@gmail.com (Joe Liu)</author>
+      <guid>https://thatisdrtruman.github.io/posts/business_website/</guid>
+      <description>https://j_soonlivan_site.gitlab.io/
+J. Soon Livan Site
+However, it is currently under construction, now it is a coming soon page, at time of writing (7 June 2026)
+Also,I will soon get a custom URL for this website, powered by Astro and GitLab.</description>
+    </item>
+    
     <item>
       <title>New Landing Page</title>
       <link>https://thatisdrtruman.github.io/posts/new-landing-page/</link>
