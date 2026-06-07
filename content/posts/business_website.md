@@ -9,9 +9,9 @@ categories = ['website', '']
 +++
 {{< addtoany >}} 
 
-https://j_soonlivan_site.gitlab.io/
+https://j_soonlivan.gitlab.io/
 
-[J. Soon Livan Site](https://j_soonlivan_site.gitlab.io/)
+[J. Soon Livan Site](https://j_soonlivan.gitlab.io/)
 
 
 However, it is currently under construction, now it is a coming soon page, at time of writing (7 June 2026)
