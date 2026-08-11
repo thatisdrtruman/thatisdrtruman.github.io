@@ -3,15 +3,16 @@
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="{{ .Site.Home.Permalink }}" >
     &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
   </a>
-  <footer>
+  <div>
     <p><a style="color:aliceblue" href="https://lj-leftcreations.my.canva.site/">Homepage</a></p>
     <p><a style="color:aliceblue" href="mailto:joeliuprimary@gmail.com">Email: joeliuprimary@gmail.com</a></p>
     <p><a style="color:aliceblue" href="/tags/">Tags</a></p>
     <p><a style="color:aliceblue" href="/categories/">Categories</a></p>
     <p><a style="color:aliceblue" href="/purchases-consumer-rights/">Buyer's Rights</a></p>
-  </footer>
+  </div>
     <div>{{ partial "social-follow.html" . }}</div>
   </div>
   <link rel="stylesheet" href="/css/webshop.css">
 <script type="text/javascript" src="/js/webshop.js"></script>
+<script src="{{ "js/dark-mode.js" | relURL }}"></script>
 </footer>

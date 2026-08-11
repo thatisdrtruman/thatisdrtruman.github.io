@@ -1,0 +1,9 @@
+<link rel="stylesheet" href="{{ "css/dark-mode.css" | relURL }}">
+<script>
+  // On page load, check for user's preference and apply it to avoid FOUC
+  (function() {
+    if (localStorage.getItem('dark-mode') === 'enabled') {
+      document.documentElement.classList.add('dark-mode');
+    }
+  })();
+</script>

@@ -1,0 +1,29 @@
+/* Dark Mode styles */
+html.dark-mode body {
+  background-color: #111111 !important; /* near-black */
+  color: #f4f4f4 !important; /* near-white */
+}
+
+/* In dark mode, we need to adjust link colors and other elements */
+html.dark-mode a, html.dark-mode a:link, html.dark-mode a:visited {
+  color: #96CCFF !important; /* A lighter blue for visibility */
+}
+
+html.dark-mode .bg-white {
+    background-color: #333 !important; /* A dark grey instead of white */
+}
+
+html.dark-mode .black, html.dark-mode .near-black {
+    color: #f4f4f4 !important;
+}
+
+html.dark-mode .gray, html.dark-mode .mid-gray {
+    color: #f4f4f4 !important; /* near-white, for post content */
+}
+
+/* Style the toggle button */
+#dark-mode-toggle {
+  background: none;
+  cursor: pointer;
+  vertical-align: middle; /* Align icon with text */
+}
