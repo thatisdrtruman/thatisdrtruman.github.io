@@ -115,7 +115,15 @@ https://radio.virginradio.co.uk/stream-mobile https://radio.virginradio.co.uk/st
 http://www.radiofeeds.net/playlists/bauer.pls?station=jazz-aac - Jazz FM
 https://listen-ucb.sharp-stream.com/55_ucb_1_48_aac https://listen-ucb.sharp-stream.com/55_ucb_2_48_aac https://icy-e-04.sharp-stream.com/ssvcbfbs1.aac - BFBS R1 https://icy-e-04.sharp-stream.com/ssvcbfbs2.aac https://icy-e-01.sharp-stream.com/ssvcbfbs20.aac - bfbs beats"/>
 
-	
+	<link rel="stylesheet" href="/css/dark-mode.css">
+<script>
+  
+  (function() {
+    if (localStorage.getItem('dark-mode') === 'enabled') {
+      document.documentElement.classList.add('dark-mode');
+    }
+  })();
+</script>
   </head>
 
   <body class="ma0 avenir bg-near-white">
@@ -128,7 +136,7 @@ https://listen-ucb.sharp-stream.com/55_ucb_1_48_aac https://listen-ucb.sharp-str
     <div class="bg-black">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
-    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+    <a href="https://thatisdrtruman.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
       
         <img src="/img/lj-left-logo-white.svg" class="w100 mw5-ns" alt="LJ-Left Creations Blog" />
       
@@ -307,10 +315,10 @@ https://listen-ucb.sharp-stream.com/55_ucb_1_48_aac https://listen-ucb.sharp-str
   
 </div>
 
+      <a href="#" id="dark-mode-toggle" class="f5 f4-ns fw4 dib ml3 no-underline white-90 ba br-pill ph3 pv1" aria-label="Toggle Dark Mode">Dark/Light Mode</a>
     </div>
   </div>
 </nav>
-
     </div>
   </header>
 
@@ -487,13 +495,13 @@ http:\149.202.83.114:8130;</p>
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://thatisdrtruman.github.io/" >
     &copy;  LJ-Left Creations Blog 2026 
   </a>
-  <footer>
+  <div>
     <p><a style="color:aliceblue" href="https://lj-leftcreations.my.canva.site/">Homepage</a></p>
     <p><a style="color:aliceblue" href="mailto:joeliuprimary@gmail.com">Email: joeliuprimary@gmail.com</a></p>
     <p><a style="color:aliceblue" href="/tags/">Tags</a></p>
     <p><a style="color:aliceblue" href="/categories/">Categories</a></p>
     <p><a style="color:aliceblue" href="/purchases-consumer-rights/">Buyer's Rights</a></p>
-  </footer>
+  </div>
     <div>
 <div class="ananke-socials">
   
@@ -609,6 +617,7 @@ http:\149.202.83.114:8130;</p>
   </div>
   <link rel="stylesheet" href="/css/webshop.css">
 <script type="text/javascript" src="/js/webshop.js"></script>
+<script src="/js/dark-mode.js"></script>
 </footer>
 
   </body>
