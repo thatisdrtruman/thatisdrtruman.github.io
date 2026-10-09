@@ -66,9 +66,9 @@ https://media-ice.musicradio.com/ClassicFM
 https://media-the.musicradio.com/LBCNewsUK  
 https://media-the.musicradio.com/LBCUK  
 
-https://radio.virginradio.co.uk/stream-virginradio4-mobile
-https://radio.virginradio.co.uk/stream-anthems-mobile
-https://radio.virginradio.co.uk/stream-britpop-mobile?ref=RF
+https://radio.virginradio.co.uk/stream-legends-mobile
+https://virgin.live.stream.broadcasting.news/stream-90s-mobile?ref=RF
+https://virgin.live.stream.broadcasting.news/stream-80s-mobile?ref=RF
 
 http://pcr.streamguys1.com/pcrnational-48k.aac?ref=RF -premier
 
